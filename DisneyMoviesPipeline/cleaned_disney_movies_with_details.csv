@@ -1,0 +1,618 @@
+id,title,release_date,genre_ids,vote_average,vote_count,budget,revenue,directors,production_companies
+447273,Snow White,2025-03-19,"[10751, 14]",4.6,290,270000000,87000000,Marc Webb,"Walt Disney Pictures, Marc Platt Productions"
+762509,Mufasa: The Lion King,2024-12-18,"[12, 10751, 16]",7.479,1702,200000000,717197856,Barry Jenkins,Walt Disney Pictures
+1241982,Moana 2,2024-11-21,"[16, 12, 10751, 35]",7.121,2049,150000000,1056396565,"David G. Derrick Jr., Jason Hand, Dana Ledoux Miller","Walt Disney Pictures, Walt Disney Animation Studios, Walt Disney Animation Studios"
+1022789,Inside Out 2,2024-06-11,"[16, 12, 35, 10751]",7.6,5683,200000000,1698863816,Kelsey Mann,"Walt Disney Pictures, Pixar"
+774531,Young Woman and the Sea,2024-05-31,"[36, 18]",7.879,340,40000000,581725,Joachim Rønning,"Walt Disney Pictures, Jerry Bruckheimer Films"
+1123093,Diary of a Wimpy Kid Christmas: Cabin Fever,2023-12-07,"[16, 35, 10751]",6.6,73,0,0,Luke Cormican,"Walt Disney Pictures, Bardel Entertainment"
+1001884,Dashing Through the Snow,2023-11-16,"[14, 10751, 35]",6.219,112,0,0,Tim Story,"Will Packer Productions, Smart Entertainment, Walt Disney Pictures"
+1022796,Wish,2023-11-13,"[16, 10751, 14, 12]",6.3,1571,175000000,254997360,"Fawn Veerasunthorn, Chris Buck","Walt Disney Pictures, Walt Disney Animation Studios"
+1165492,Project CC,2023-09-29,[18],5.8,5,0,0,Cashmere Jasmine,Walt Disney Pictures
+1165491,Black Belts,2023-09-29,[18],7.2,8,0,0,Spencer Glover,Walt Disney Pictures
+1164598,The Ghost,2023-09-29,"[18, 14]",7.6,9,0,0,Erica Eng,Walt Disney Pictures
+1139087,Once Upon a Studio,2023-09-24,"[16, 10751, 14, 35]",8.288,371,0,0,"Dan Abraham, Trent Correy","Walt Disney Animation Studios, Walt Disney Pictures"
+1184348,Haunted Mansion: Enter If You Dare,2023-07-26,"[16, 9648]",0.0,0,0,0,,Walt Disney Pictures
+1184346,Haunted Mansion: Swinging Wake,2023-07-26,"[16, 9648]",0.0,0,0,0,,Walt Disney Pictures
+616747,Haunted Mansion,2023-07-26,"[35, 18, 14, 27]",6.467,1087,157800000,117449790,Justin Simien,"Walt Disney Pictures, Rideback"
+1143516,Maxine,2023-07-23,[18],5.9,8,0,0,Niki Ang,Walt Disney Pictures
+1135111,The Roof,2023-07-23,[18],6.1,9,0,0,Alexander Bocchieri,Walt Disney Pictures
+1143429,"Beautiful, FL",2023-07-17,[18],5.8,9,0,0,Gabriela Ortega,Walt Disney Pictures
+929569,World's Best,2023-06-23,"[10402, 10751, 35]",6.2,19,0,0,Roshan Sethi,Walt Disney Pictures
+976573,Elemental,2023-06-14,"[16, 35, 10751, 14, 10749]",7.618,4726,200000000,496444308,Peter Sohn,"Walt Disney Pictures, Pixar"
+447277,The Little Mermaid,2023-05-18,"[12, 10751, 14, 10749]",6.312,3026,297000000,569626289,Rob Marshall,"Walt Disney Pictures, Lucamar Productions, Marc Platt Productions"
+620705,Crater,2023-05-12,"[878, 28, 12, 10751]",6.6,269,0,0,Kyle Patrick Alvarez,"Walt Disney Pictures, 21 Laps Entertainment"
+420808,Peter Pan & Wendy,2023-04-20,"[10751, 14, 28, 12]",5.469,695,0,0,David Lowery,"Walt Disney Pictures, Whitaker Entertainment"
+776098,Chang Can Dunk,2023-03-09,"[10751, 35, 18]",6.98,74,0,0,Jingyi Shao,"Hillman Grad Productions, Makeready, Walt Disney Pictures, Rotten Eggs Productions"
+751741,Night at the Museum: Kahmunrah Rises Again,2022-12-08,"[16, 35, 10751, 14]",6.427,261,0,0,Matt Danner,"21 Laps Entertainment, 1492 Pictures, Walt Disney Pictures"
+897192,Diary of a Wimpy Kid: Rodrick Rules,2022-12-02,"[16, 35, 10751]",6.9,165,0,0,Luke Cormican,"Walt Disney Pictures, Bardel Entertainment"
+877269,Strange World,2022-11-23,"[16, 10751, 12, 878, 14]",6.3,1289,180000000,73621640,Don Hall,"Walt Disney Pictures, Walt Disney Animation Studios"
+338958,Disenchanted,2022-11-18,"[35, 10751, 14]",6.7,1100,0,0,Adam Shankman,"Walt Disney Pictures, Josephson Entertainment, Right Coast"
+642885,Hocus Pocus 2,2022-09-27,"[14, 35, 10751]",7.207,1706,30000000,0,Anne Fletcher,"Walt Disney Pictures, Weimaraner Republic Pictures"
+532639,Pinocchio,2022-09-07,"[14, 12, 10751]",6.332,1621,0,0,Robert Zemeckis,"Walt Disney Pictures, Depth of Field, ImageMovers"
+974936,Trevor: The Musical,2022-06-24,"[18, 10402]",5.0,14,0,0,Robin Mishkin Abrams,"RadicalMedia, Walt Disney Pictures"
+759054,Rise,2022-06-23,[18],7.6,273,0,0,Akin Omotoso,"Walt Disney Pictures, Faliro House Productions, NBA Entertainment"
+718789,Lightyear,2022-06-15,"[16, 878, 10751, 12]",6.9,3506,200000000,226425420,Angus MacLane,"Pixar, Walt Disney Pictures"
+799883,Hollywood Stargirl,2022-06-03,"[35, 10749, 10402]",6.6,60,0,0,Julia Hart,"Walt Disney Pictures, BCDF Pictures, The Gotham Group, Hahnscape Entertainment, Original Headquarters"
+420821,Chip 'n Dale: Rescue Rangers,2022-05-20,"[16, 10751, 35, 12, 9648]",6.996,1247,70000000,623190,Akiva Schaffer,"Walt Disney Pictures, Mandeville Films"
+691683,Cheaper by the Dozen,2022-03-18,"[10751, 35]",6.406,254,0,0,Gail Lerner,"Walt Disney Pictures, Khalabo Ink Society"
+826953,Better Nate Than Ever,2022-03-15,"[10402, 10751, 35]",6.4,99,0,0,Tim Federle,"Walt Disney Pictures, Marc Platt Productions"
+508947,Turning Red,2022-03-10,"[16, 10751, 35, 14]",7.3,5359,175000000,21328962,Domee Shi,"Walt Disney Pictures, Pixar"
+774825,The Ice Age Adventures of Buck Wild,2022-01-28,"[16, 35, 10751, 12]",6.6,1715,0,0,John C. Donkin,"Bardel Entertainment, Walt Disney Pictures"
+774741,Diary of a Wimpy Kid,2021-12-02,"[16, 35, 10751]",6.2,356,0,0,Swinton O. Scott III,"Walt Disney Pictures, Bardel Entertainment"
+831827,Far from the Tree,2021-11-24,"[16, 10751]",8.074,378,0,0,Natalie Nourigat,"Walt Disney Pictures, Walt Disney Animation Studios"
+876716,Ciao Alberto,2021-11-11,"[16, 35, 10751, 14]",7.4,670,45223,0,McKenna Jean Harris,"Walt Disney Pictures, Pixar"
+568124,Encanto,2021-10-13,"[16, 35, 10751, 14]",7.595,9651,135000000,261289554,"Byron Howard, Jared Bush","Walt Disney Animation Studios, Walt Disney Pictures"
+451048,Jungle Cruise,2021-07-28,"[14, 12]",7.3,5787,200000000,220889446,Jaume Collet-Serra,"Walt Disney Pictures, Seven Bucks Productions, Davis Entertainment, Flynn Picture Company"
+508943,Luca,2021-06-17,"[16, 35, 14, 12, 10751]",7.807,8475,200000000,51074773,Enrico Casarosa,"Pixar, Walt Disney Pictures"
+818370,The Little Prince(ss),2021-05-28,"[10751, 18]",7.1,137,0,0,Moxie Peng,Walt Disney Pictures
+818367,Let's Be Tigers,2021-05-28,[18],7.3,14,0,0,Stefanie Abel Horowitz,Walt Disney Pictures
+818361,The Last of the Chupacabras,2021-05-28,"[10751, 14]",6.2,21,0,0,Jessica Mendez Siqueiros,Walt Disney Pictures
+818356,Growing Fangs,2021-05-28,"[18, 10749, 10751, 14]",6.6,17,0,0,Ann Marie Pace,Walt Disney Pictures
+818342,Dinner Is Served,2021-05-28,[18],5.8,13,0,0,Hao Zheng,Walt Disney Pictures
+818336,American Eid,2021-05-28,[18],7.1,14,0,0,Aqsa Altaf,Walt Disney Pictures
+337404,Cruella,2021-05-26,"[35, 80, 12]",7.996,9509,200000000,233503234,Craig Gillespie,"Walt Disney Pictures, Gunn Films, Marc Platt Productions"
+811367,22 vs. Earth,2021-04-30,"[10751, 35, 14, 16]",7.0,459,0,0,Kevin Nolting,"Pixar, Walt Disney Pictures"
+779047,Us Again,2021-03-03,"[16, 18, 10751, 10749]",7.807,331,0,0,Zach Parrish,"Walt Disney Pictures, Walt Disney Animation Studios"
+527774,Raya and the Last Dragon,2021-03-03,"[16, 10751, 14, 28, 12]",7.8,6884,100000000,130423032,"Carlos López Estrada, Don Hall","Walt Disney Pictures, Walt Disney Animation Studios"
+621876,Flora & Ulysses,2021-02-19,"[10751, 12, 35, 14]",6.5,249,0,0,Lena Khan,"Walt Disney Pictures, Netter Productions"
+508442,Soul,2020-12-25,"[16, 10751, 35, 14]",8.112,10680,150000000,121977511,Pete Docter,"Walt Disney Pictures, Pixar"
+727306,Safety,2020-12-11,"[10751, 18, 36]",7.5,191,0,0,Reginald Hudlin,"Walt Disney Pictures, Select Films"
+662546,Godmothered,2020-12-04,"[10751, 14, 35]",6.737,613,0,0,Sharon Maguire,"Walt Disney Pictures, The Montecito Picture Company, Studio AKA"
+757998,On the Lot with Becky Cline - Disney Studio Tour,2020-10-23,[99],0.0,0,0,0,Jay Hatcher,Walt Disney Pictures
+337401,Mulan,2020-09-04,"[12, 14, 28, 10751]",6.866,6750,200000000,69965374,Niki Caro,"Walt Disney Pictures, Good Fear, Jason T. Reed Productions"
+508570,The One and Only Ivan,2020-08-21,"[10751, 35, 18]",7.369,591,0,0,Thea Sharrock,"Allison Shearmur Productions, Digital Makeup Group, Jolie Pas Productions, Walt Disney Pictures"
+454433,Magic Camp,2020-08-14,"[10751, 14, 35]",6.876,205,24000000,0,Mark Waters,"Team Todd, Gunn Films, Walt Disney Pictures"
+719643,Black Is King,2020-07-30,[10402],7.3,128,0,0,"Beyoncé, Blitz Bazawule, Emmanuel Adjei, Dikayl Rimmasch, Ibra Ake, Jake Nava, Jenn Nkiru, Pierre Debusschere","Parkwood Entertainment, Walt Disney Pictures"
+475430,Artemis Fowl,2020-05-29,"[12, 14, 878, 10751, 28]",5.6,1668,125000000,0,Kenneth Branagh,"Tribeca Productions, Walt Disney Pictures, TKBC"
+706860,Out,2020-05-22,"[16, 35, 18, 14, 10751, 10749]",7.3,195,0,0,Steven Clay Hunter,"Pixar, Walt Disney Pictures"
+382748,Stargirl,2020-03-10,"[35, 18, 10749, 10751]",7.4,559,0,0,Julia Hart,"BCDF Pictures, The Gotham Group, Hahnscape Entertainment, Walt Disney Pictures"
+508439,Onward,2020-02-29,"[10751, 16, 12, 35, 14]",7.671,6230,200000000,141940042,Dan Scanlon,"Walt Disney Pictures, Pixar"
+594530,Lamp Life,2020-01-31,"[16, 35, 10751]",7.1,305,0,0,Valerie LaPointe,"Walt Disney Pictures, Pixar"
+550440,Timmy Failure: Mistakes Were Made,2020-01-25,"[10751, 9648, 35, 14]",6.2,182,45000000,0,Tom McCarthy,"Walt Disney Pictures, Whitaker Entertainment, Slow Pony"
+606856,Togo,2019-12-20,"[12, 10751]",8.143,2069,0,0,Ericson Core,Walt Disney Pictures
+330457,Frozen II,2019-11-20,"[10751, 16, 12, 35, 14]",7.2,9851,150000000,1453683476,"Jennifer Lee, Chris Buck","Walt Disney Pictures, Walt Disney Animation Studios"
+512895,Lady and the Tramp,2019-11-12,"[10751, 10749, 35]",7.199,1574,0,0,Charlie Bean,"Walt Disney Pictures, Taylor Made Entertainment"
+454467,Noelle,2019-11-12,"[10751, 35, 14]",6.596,680,0,0,Marc Lawrence,Walt Disney Pictures
+420809,Maleficent: Mistress of Evil,2019-10-16,"[10751, 14, 12, 28]",7.303,6180,185000000,491730089,Joachim Rønning,"Walt Disney Pictures, Roth Films"
+420818,The Lion King,2019-07-12,"[12, 18, 10751, 16]",7.11,10277,260000000,1662020819,Jon Favreau,"Walt Disney Pictures, Fairview Entertainment"
+301528,Toy Story 4,2019-06-19,"[10751, 12, 16, 35, 14]",7.478,9933,175000000,1073841394,Josh Cooley,"Walt Disney Pictures, Pixar"
+420817,Aladdin,2019-05-22,"[12, 14, 10749, 10751]",7.096,10172,183000000,1054300000,Guy Ritchie,"Walt Disney Pictures, Rideback"
+329996,Dumbo,2019-03-27,"[10751, 14, 12]",6.604,4349,170000000,353284621,Tim Burton,"Tim Burton Productions, Walt Disney Pictures, Infinite Detective, Secret Machine Entertainment, British Film Commission, South Australian Film Corporation"
+400650,Mary Poppins Returns,2018-12-13,"[14, 10751, 35]",6.512,3337,130000000,348807090,Rob Marshall,"Walt Disney Pictures, Marc Platt Productions, Lucamar Productions"
+404368,Ralph Breaks the Internet,2018-11-20,"[10751, 16, 35, 12]",7.17,7668,175000000,529323962,"Phil Johnston, Rich Moore","Walt Disney Pictures, Walt Disney Animation Studios"
+426543,The Nutcracker and the Four Realms,2018-10-26,"[14, 12, 10751]",6.081,2161,120000000,173961069,"Lasse Hallström, Joe Johnston","Walt Disney Pictures, The Mark Gordon Company"
+546728,Auntie Edna,2018-10-23,"[16, 35, 10751, 878]",7.2,245,0,0,Ted Mathot,"Walt Disney Pictures, Pixar"
+420814,Christopher Robin,2018-08-01,"[12, 35, 10751, 14]",7.298,2753,75000000,99138899,Marc Forster,"Walt Disney Pictures, 2DUX²"
+514754,Bao,2018-06-15,"[16, 10751, 14]",7.567,1220,0,0,Domee Shi,"Pixar, Walt Disney Pictures"
+260513,Incredibles 2,2018-06-14,"[28, 12, 16, 10751]",7.5,13005,200000000,1242805359,Brad Bird,"Walt Disney Pictures, Pixar"
+407451,A Wrinkle in Time,2018-03-08,"[12, 878, 10751, 14]",5.1,1801,103000000,132675864,Ava DuVernay,"Whitaker Entertainment, Walt Disney Pictures"
+698135,Alice Comedies Vol. 2,2018-01-17,"[16, 35]",0.0,0,0,0,,"Walt Disney Pictures, Walt Disney Productions"
+460793,Olaf's Frozen Adventure,2017-10-27,"[16, 10751, 12, 35, 14]",6.5,1442,0,0,"Stevie Wermers-Skelton, Kevin Deters",Walt Disney Pictures
+354912,Coco,2017-10-27,"[10751, 16, 10402, 12]",8.2,19834,175000000,807816196,Lee Unkrich,"Pixar, Walt Disney Pictures"
+471968,The Last Warrior,2017-10-19,"[14, 10751, 12, 28, 35]",6.9,179,8250000,30060061,Dmitriy Dyachenko,"The Walt Disney Company CIS, Walt Disney Pictures"
+166426,Pirates of the Caribbean: Dead Men Tell No Tales,2017-05-23,"[12, 28, 14]",6.653,12153,230000000,795922298,"Espen Sandberg, Joachim Rønning","Walt Disney Pictures, Jerry Bruckheimer Films, Infinitum Nihil"
+321612,Beauty and the Beast,2017-03-16,"[10751, 14, 10749]",6.97,15569,160000000,1266115964,Bill Condon,"Walt Disney Pictures, Mandeville Films"
+496834,Voice of the Islands,2017-03-07,[99],1.0,1,0,0,,Walt Disney Pictures
+406785,Inner Workings,2016-11-23,"[16, 10751, 35]",7.8,291,0,0,Leo Matsuda,"Walt Disney Animation Studios, Walt Disney Pictures"
+277834,Moana,2016-10-13,"[12, 35, 10751, 16]",7.6,12964,150000000,690860472,"John Musker, Ron Clements","Walt Disney Pictures, Walt Disney Animation Studios"
+399106,Piper,2016-06-16,"[10751, 16]",8.146,1652,0,0,Alan Barillaro,"Pixar, Walt Disney Pictures"
+127380,Finding Dory,2016-06-16,"[12, 16, 35, 10751]",7.0,12169,200000000,1028600000,Andrew Stanton,"Pixar, Walt Disney Pictures"
+267935,The BFG,2016-06-01,"[12, 10751, 14]",6.278,3410,140000000,195243411,Steven Spielberg,"Walt Disney Pictures, Amblin Entertainment, Reliance Entertainment, Walden Media, The Kennedy/Marshall Company, The Roald Dahl Story Company"
+241259,Alice Through the Looking Glass,2016-05-25,"[12, 10751, 14]",6.558,6487,170000000,299457024,James Bobin,"Legend3D, Walt Disney Pictures, Roth Films, Team Todd, Tim Burton Productions"
+278927,The Jungle Book,2016-04-07,"[10751, 12, 18, 14]",6.864,8128,175000000,966550600,Jon Favreau,"Walt Disney Pictures, Fairview Entertainment, Moving Picture Company"
+269149,Zootopia,2016-02-11,"[16, 12, 10751, 35]",7.747,16586,150000000,1023784195,"Byron Howard, Rich Moore","Walt Disney Animation Studios, Walt Disney Pictures"
+300673,The Finest Hours,2016-01-27,"[28, 18, 36, 53]",6.6,1623,80000000,52099090,Craig Gillespie,"Red Hawk Entertainment, Walt Disney Pictures, Whitaker Entertainment, Bergsten Music"
+105864,The Good Dinosaur,2015-11-14,"[12, 16, 10751]",6.7,5622,175000000,332207671,Peter Sohn,"Pixar, Walt Disney Pictures"
+352812,Tick Tock Tale,2015-08-18,[16],7.4,110,0,0,Dean Wellins,"Walt Disney Pictures, Walt Disney Animation Studios"
+150540,Inside Out,2015-06-17,"[16, 10751, 12, 18, 35]",7.91,22367,175000000,857611174,Pete Docter,"Pixar, Walt Disney Pictures"
+158852,Tomorrowland,2015-05-19,"[12, 10751, 9648, 878]",6.279,7034,190000000,209200000,Brad Bird,"Walt Disney Pictures, A113"
+678845,The Origins of Plus Ultra,2015-04-24,[16],3.5,2,0,0,Brad Bird,"Walt Disney Pictures, Pixar"
+1447091,"Meet the Pickles: The Making of ""Win or Lose""",2025-03-11,[99],6.0,1,0,0,Sarah Dunham,Pixar
+1221396,Self,2024-02-01,"[16, 10751, 14]",6.2,37,0,0,Searit Huluf,Pixar
+747059,Burrow,2024-01-12,"[16, 10751, 35]",7.4,25,0,0,Madeline Sharafian,Pixar
+1174775,Good Chemistry: The Story of Elemental,2023-09-13,[99],6.8,10,0,0,Tony Kaplan,Pixar
+1076364,Carl's Date,2023-06-15,"[16, 12, 10751, 35]",7.477,414,0,0,Bob Peterson,Pixar
+979163,Beyond Infinity: Buzz and the Journey to Lightyear,2022-06-10,[99],7.0,238,0,0,Tony Kaplan,Pixar
+940075,Embrace the Panda: Making Turning Red,2022-03-11,[99],6.9,38,0,0,Erica Milsom,Pixar
+897298,Pixar 2021 Disney+ Day Special,2021-11-12,[99],5.368,19,0,0,Pete Docter,Pixar
+852721,Nona,2021-08-27,[16],6.348,79,0,0,Louis Gonzales,Pixar
+852719,Twenty Something,2021-08-27,"[16, 35, 18]",7.3,81,0,0,Aphton Corbin,Pixar
+899613,Automaton,2020-08-24,[16],6.3,3,9859,9859,Krzysztof Rost,Pixar
+662666,Forky Asks a Question: What Is Reading?,2020-01-10,"[16, 10751, 35]",5.8,58,0,0,Bob Peterson,Pixar
+660867,Forky Asks a Question: What Is Cheese?,2020-01-03,"[16, 10751, 35]",6.2,73,0,0,Bob Peterson,Pixar
+660866,Forky Asks a Question: What Is a Pet?,2019-12-27,"[16, 10751, 35]",5.7,61,0,0,Bob Peterson,Pixar
+660862,Forky Asks a Question: What Is a Leader?,2019-12-20,"[16, 10751, 35]",5.6,59,0,0,Bob Peterson,Pixar
+660861,Forky Asks a Question: What Is a Computer?,2019-12-13,"[16, 10751, 35]",5.8,62,0,0,Bob Peterson,Pixar
+574091,Wind,2019-12-13,"[16, 10751, 14]",7.2,150,0,0,Edwin Chang,Pixar
+660859,Forky Asks a Question: What Is Love?,2019-12-06,"[16, 10751, 35]",6.3,76,0,0,Bob Peterson,Pixar
+660858,Forky Asks a Question: What Is Time?,2019-11-29,"[16, 10751, 35]",6.0,68,0,0,Bob Peterson,Pixar
+660856,Forky Asks a Question: What Is Art?,2019-11-22,"[16, 10751, 35]",5.8,79,0,0,Bob Peterson,Pixar
+660855,Forky Asks a Question: What Is a Friend?,2019-11-15,"[16, 10751, 35]",6.2,85,0,0,Bob Peterson,Pixar
+660851,Forky Asks a Question: What Is Money?,2019-11-12,"[16, 10751, 35]",6.0,98,0,0,Bob Peterson,Pixar
+574093,Float,2019-11-12,"[16, 18, 10751]",7.3,278,0,0,Bobby Rubio,Pixar
+574074,Kitbull,2019-01-18,"[16, 10751, 18]",8.0,372,0,0,Rosana Sullivan,Pixar
+532953,Purl,2019-01-18,"[16, 35]",6.7,304,0,0,Kristen Lester,Pixar
+532952,Smash and Grab,2019-01-18,"[16, 878]",6.6,170,0,0,Brian Larsen,Pixar
+574089,Loop,2019-01-10,"[16, 10751]",6.7,193,0,0,Erica Milsom,Pixar
+260513,Incredibles 2,2018-06-14,"[28, 12, 16, 10751]",7.454,13006,200000000,1242805359,Brad Bird,"Walt Disney Pictures, Pixar"
+433471,Lou,2017-06-16,"[10751, 14, 16, 35]",7.523,396,0,0,Dave Mullins,Pixar
+260514,Cars 3,2017-06-15,"[10751, 16, 12, 35]",6.8,5966,175000000,383925276,Brian Fee,Pixar
+449621,Dante's Lunch,2017-03-29,"[16, 35]",6.8,66,0,0,"Lee Unkrich, Jason Katz",Pixar
+427004,Marine Life Interviews,2016-11-15,"[16, 10751, 35]",6.2,75,0,0,Ross Stevenson,Pixar
+345637,Sanjay's Super Team,2015-11-18,"[16, 10751, 14, 28]",6.4,259,0,0,Sanjay Patel,Pixar
+370082,Mind Candy,2015-11-03,[16],3.1,5,0,0,Ross Haldane Stevenson,Pixar
+355338,Riley's First Date?,2015-11-03,"[16, 10751]",7.2,1067,0,0,Josh Cooley,Pixar
+822119,Captain America: Brave New World,2025-02-12,"[28, 53, 878]",6.1,1106,180000000,400056272,Julius Onah,"Marvel Studios, Kevin Feige Productions"
+1387507,Marvel Studios Assembled: The Making of Agatha All Along,2024-11-13,[99],9.5,3,0,0,Brad Baruh,"Marvel Studios, M3 Creative"
+1386628,Marvel Studios Assembled: The Making of Deadpool & Wolverine,2024-11-12,[99],6.8,16,0,0,Brad Baruh,"Marvel Studios, M3 Creative"
+533535,Deadpool & Wolverine,2024-07-24,"[28, 35, 878]",7.6,6935,200000000,1338073645,Shawn Levy,"Marvel Studios, Maximum Effort, 21 Laps Entertainment, 20th Century Studios, Kevin Feige Productions, TSG Entertainment"
+1275606,Marvel Studios Assembled: The Making of X-Men '97,2024-05-21,[99],5.9,8,0,0,Brad Baruh,"Marvel Studios, M3 Creative"
+1235525,Marvel Studios Assembled: The Making of The Marvels,2024-02-06,[99],5.6,8,0,0,,Marvel Studios
+1220337,Marvel Studios Assembled: The Making of Echo,2024-01-31,[99],6.1,7,0,0,Brad Baruh,Marvel Studios
+1192825,Marvel Studios Assembled: The Making of Loki Season 2,2023-11-22,[99],7.1,15,0,0,Brad Baruh,Marvel Studios
+609681,The Marvels,2023-11-08,"[878, 12, 28]",6.0,2878,274800000,207089999,Nia DaCosta,"Marvel Studios, Kevin Feige Productions"
+1165500,Marvel Studios Assembled: The Making of Secret Invasion,2023-09-19,[99],5.0,24,0,0,Brad Baruh,Marvel Studios
+1165487,Marvel Studios Assembled: The Making of the Guardians of the Galaxy Vol. 3,2023-09-12,[99],6.3,13,0,0,Brad Baruh,Marvel Studios
+1127361,Marvel Studios Assembled: The Making of Ant-Man and the Wasp: Quantumania,2023-07-19,[99],6.2,16,0,0,Brad Baruh,Marvel Studios
+717082,Stan Lee,2023-06-10,[99],7.2,82,0,0,David Gelb,"Supper Club, Marvel Studios"
+447365,Guardians of the Galaxy Vol. 3,2023-05-03,"[878, 12, 28, 35]",7.9,7217,250000000,845600000,James Gunn,"Marvel Studios, Kevin Feige Productions"
+640146,Ant-Man and the Wasp: Quantumania,2023-02-15,"[28, 12, 878]",6.3,5192,388369742,476071180,Peyton Reed,"Marvel Studios, Kevin Feige Productions"
+1076032,Marvel Studios Assembled: The Making of Black Panther: Wakanda Forever,2023-02-07,[99],6.8,45,0,0,Brad Baruh,Marvel Studios
+774752,The Guardians of the Galaxy Holiday Special,2022-11-24,"[35, 878, 12]",7.12,2098,0,0,James Gunn,"Marvel Studios, Kevin Feige Productions, Troll Court Entertainment"
+505642,Black Panther: Wakanda Forever,2022-11-09,"[28, 12, 878]",7.068,6729,250000000,859102154,Ryan Coogler,Marvel Studios
+1036996,Director by Night,2022-11-04,[99],6.2,21,0,0,Anthony Giacchino,"Marvel Studios, Time Travel Unlimited"
+1026208,Marvel Studios Assembled: The Making of She-Hulk: Attorney at Law,2022-11-03,[99],7.06,50,0,0,Brad Baruh,Marvel Studios
+894205,Werewolf by Night,2022-09-25,"[28, 14, 27]",6.986,1332,0,0,Michael Giacchino,"Marvel Studios, Kevin Feige Productions"
+1015595,Marvel Studios Assembled: The Making of Thor: Love and Thunder,2022-09-08,[99],7.0,40,0,0,Brad Baruh,Marvel Studios
+1010821,Groot Takes a Bath,2022-08-10,"[16, 10751, 35, 878]",7.1,349,0,0,Kirsten Lepore,Marvel Studios
+1010820,Groot's Pursuit,2022-08-10,"[16, 10751, 35, 878]",7.1,265,0,0,Kirsten Lepore,Marvel Studios
+1010819,The Little Guy,2022-08-10,"[16, 10751, 35, 878]",7.312,274,0,0,Kirsten Lepore,Marvel Studios
+1010818,Groot's First Steps,2022-08-10,"[16, 10751, 35, 878]",7.0,346,0,0,Kirsten Lepore,"Luma Pictures, Marvel Studios"
+1001912,Marvel Studios Assembled: The Making of Ms. Marvel,2022-08-03,[99],7.0,30,0,0,Brad Baruh,Marvel Studios
+1010823,Magnum Opus,2022-07-18,"[16, 10751, 878, 35]",7.3,264,0,0,Kirsten Lepore,Marvel Studios
+980017,Marvel Studios Assembled: The Making of Doctor Strange in the Multiverse of Madness,2022-07-07,[99],7.2,43,0,0,Brad Baruh,Marvel Studios
+616037,Thor: Love and Thunder,2022-07-06,"[14, 28, 35]",6.4,7814,250000000,760900000,Taika Waititi,"Marvel Studios, Kevin Feige Productions"
+979160,A Fan's Guide to Ms. Marvel,2022-06-01,[99],7.0,71,0,0,,Marvel Studios
+964943,Marvel Studios Assembled: The Making of Moon Knight,2022-05-24,[99],7.1,39,0,0,Brad Baruh,Marvel Studios
+453395,Doctor Strange in the Multiverse of Madness,2022-05-04,"[14, 28, 12]",7.3,9418,200000000,955775804,Sam Raimi,"Marvel Studios, Kevin Feige Productions"
+939356,Marvel Studios Assembled: The Making of Eternals,2022-02-16,[99],7.3,52,0,0,Bradley Hogan,Marvel Studios
+936643,Marvel Studios Assembled: The Making of Hawkeye,2022-02-09,[99],7.0,43,0,0,Brad Baruh,Marvel Studios
+634649,Spider-Man: No Way Home,2021-12-15,"[28, 12, 878]",7.947,20616,200000000,1921847111,Jon Watts,"Marvel Studios, Pascal Pictures, Columbia Pictures"
+877188,Marvel Studios' 2021 Disney+ Day Special,2021-11-12,[99],7.0,29,0,0,,Marvel Studios
+524434,Eternals,2021-11-03,"[878, 28, 12]",6.8,8472,200000000,402064899,Chloé Zhao,Marvel Studios
+566525,Shang-Chi and the Legend of the Ten Rings,2021-09-01,"[28, 12, 14]",7.525,9628,150000000,432243292,Destin Daniel Cretton,Marvel Studios
+497698,Black Widow,2021-07-07,"[28, 12, 878]",7.2,10406,200000000,379751131,Cate Shortland,Marvel Studios
+647375,Marvel Studios: Expanding the Universe,2019-11-12,[99],5.8,26,0,0,,Marvel Studios
+758025,Peter's To-Do List,2019-09-17,"[878, 28, 12]",7.0,79,0,0,Jon Watts,"Marvel Studios, Pascal Pictures, Columbia Pictures"
+429617,Spider-Man: Far From Home,2019-06-28,"[28, 12, 878]",7.411,15971,160000000,1131927996,Jon Watts,"Marvel Studios, Pascal Pictures, Columbia Pictures"
+299534,Avengers: Endgame,2019-04-24,"[12, 878, 28]",8.2,26163,356000000,2799439100,"Joe Russo, Anthony Russo",Marvel Studios
+299537,Captain Marvel,2019-03-06,"[28, 12, 878]",6.803,15947,152000000,1131416446,"Ryan Fleck, Anna Boden",Marvel Studios
+363088,Ant-Man and the Wasp,2018-07-04,"[28, 12, 878]",6.9,13486,140000000,622674139,Peyton Reed,Marvel Studios
+299536,Avengers: Infinity War,2018-04-25,"[12, 28, 878]",8.2,30335,300000000,2052415039,"Anthony Russo, Joe Russo",Marvel Studios
+505945,Team Darryl,2018-02-20,[35],6.2,162,0,0,Taika Waititi,Marvel Studios
+284054,Black Panther,2018-02-13,"[28, 12, 878]",7.374,22458,200000000,1349926083,Ryan Coogler,Marvel Studios
+284053,Thor: Ragnarok,2017-10-02,"[28, 12, 878]",7.585,21020,180000000,855301806,Taika Waititi,Marvel Studios
+315635,Spider-Man: Homecoming,2017-07-05,"[28, 12, 878, 18]",7.331,22078,175000000,880166924,Jon Watts,"Marvel Studios, Pascal Pictures, LStar Capital, Columbia Pictures"
+283995,Guardians of the Galaxy Vol. 2,2017-04-19,"[878, 12, 28]",7.6,21849,200000000,863756051,James Gunn,Marvel Studios
+441829,Team Thor: Part 2,2017-02-14,"[878, 35, 14]",7.0,329,0,0,Taika Waititi,Marvel Studios
+284052,Doctor Strange,2016-10-25,"[28, 12, 14]",7.418,22417,180000000,676343174,Scott Derrickson,Marvel Studios
+413279,Team Thor,2016-08-28,"[35, 878]",7.3,541,0,0,Taika Waititi,Marvel Studios
+271110,Captain America: Civil War,2016-04-27,"[12, 28, 878]",7.444,23004,250000000,1155046416,"Joe Russo, Anthony Russo",Marvel Studios
+379040,Marvel's Captain America: 75 Heroic Years,2016-01-19,[99],6.7,34,0,0,Zak Knutson,"Bow + Arrow Entertainment, Marvel Studios"
+102899,Ant-Man,2015-07-14,"[878, 28, 12]",7.1,19969,130000000,519311965,Peyton Reed,Marvel Studios
+99861,Avengers: Age of Ultron,2015-04-22,"[28, 12, 878]",7.3,23314,365000000,1405403694,Joss Whedon,Marvel Studios
+1443468,Andor: Season 2 | A Special Look,2025-03-04,[99],0.0,0,0,0,,Lucasfilm Ltd.
+1406621,Star Wars: Skeleton Crew | A Special Look,2024-11-28,[99],4.3,3,0,0,,Lucasfilm Ltd.
+1076708,Music by John Williams,2024-11-01,"[99, 10402]",7.982,55,0,0,Laurent Bouzereau,"Nedland Media, Lucasfilm Ltd., Imagine Documentaries, Amblin Documentaries"
+1199447,Timeless Heroes: Indiana Jones & Harrison Ford,2023-12-01,[99],7.7,22,0,0,Laurent Bouzereau,Lucasfilm Ltd.
+1168918,The Making of Indiana Jones and the Dial of Destiny,2023-08-29,[99],6.4,12,0,0,Ian Bucknole,Lucasfilm Ltd.
+1166427,Master & Apprentice: A Special Look at Ahsoka,2023-08-14,[99],7.2,10,0,0,,Lucasfilm Ltd.
+335977,Indiana Jones and the Dial of Destiny,2023-06-25,"[12, 28]",6.6,3591,294700000,383963057,James Mangold,Lucasfilm Ltd.
+1076366,Willow: Behind the Magic,2023-01-25,"[99, 35]",3.9,14,0,0,Adam Countee,"Lucasfilm Ltd., Imagine Documentaries"
+1044343,Zen - Grogu and Dust Bunnies,2022-11-11,[16],6.1,96,0,0,Katsuya Kondo,"Lucasfilm Ltd., Studio Ghibli"
+1022100,Andor: A Disney+ Day Special Look,2022-09-08,"[99, 878]",6.9,20,0,0,,Lucasfilm Ltd.
+1015606,Obi-Wan Kenobi: A Jedi's Return,2022-09-07,[99],6.8,988,0,0,David Gelb,"Lucasfilm Ltd., Supper Club"
+980804,LEGO Star Wars Summer Vacation,2022-08-05,"[16, 10751, 878, 35, 10770]",6.203,86,0,0,Ken Cunningham,"Lucasfilm Ltd., Atomic Cartoons, LEGO"
+933962,More Than Robots,2022-03-14,"[99, 10751]",6.3,5,0,0,Gillian Jacobs,Lucasfilm Ltd.
+877181,Under the Helmet: The Legacy of Boba Fett,2021-11-12,[99],6.9,41,0,0,"Brian Kwan, Brad Baruh",Lucasfilm Ltd.
+857702,LEGO Star Wars Terrifying Tales,2021-10-01,"[16, 10751, 878, 35, 10770]",6.867,252,0,0,Ken Cunningham,"Lucasfilm Ltd., Atomic Cartoons, LEGO"
+1449954,Star Wars: The Bad Batch – Aftermath,2021-05-04,"[16, 28, 12, 878]",0.0,0,0,0,"Nathaniel Villanueva, Saul Ruiz, Steward Lee","Lucasfilm Ltd., Lucasfilm Animation"
+825647,Star Wars Biomes,2021-05-03,"[878, 99]",6.657,54,0,0,,Lucasfilm Ltd.
+732670,LEGO Star Wars Holiday Special,2020-11-17,"[16, 10751, 878, 12, 35]",6.54,334,0,0,Ken Cunningham,"Lucasfilm Ltd., LEGO, Atomic Cartoons"
+1183093,Star Wars: Squadrons - Hunted,2020-09-14,"[16, 28, 878]",5.0,1,0,0,Neel Upadhye,"Motive Studio, Lucasfilm Ltd., Industrial Light & Magic"
+680382,The Skywalker Legacy,2020-03-18,[99],7.7,43,0,0,Debs Paterson,Lucasfilm Ltd.
+181812,Star Wars: The Rise of Skywalker,2019-12-18,"[12, 28, 878]",6.3,10105,416000000,1074144248,J.J. Abrams,"Lucasfilm Ltd., Bad Robot"
+348350,Solo: A Star Wars Story,2018-05-15,"[878, 12, 28]",6.557,8689,250000000,392952373,Ron Howard,Lucasfilm Ltd.
+513696,Balance of the Force,2018-03-12,[99],7.0,5,0,0,Ian Bucknole,Lucasfilm Ltd.
+510714,The Director and the Jedi,2018-03-12,[99],7.2,42,0,0,Anthony Wonke,Lucasfilm Ltd.
+507052,The Force of Sound,2018-02-20,[99],8.7,3,0,0,,"ABC News, Lucasfilm Ltd."
+181808,Star Wars: The Last Jedi,2017-12-13,"[12, 28, 878]",6.781,15508,200000000,1332698830,Rian Johnson,Lucasfilm Ltd.
+330459,Rogue One: A Star Wars Story,2016-12-14,"[28, 12, 878]",7.5,15470,200000000,1056057273,Gareth Edwards,Lucasfilm Ltd.
+388885,Secrets of the Force Awakens: A Cinematic Journey,2016-04-16,[99],7.1,39,0,0,Laurent Bouzereau,Lucasfilm Ltd.
+140607,Star Wars: The Force Awakens,2015-12-15,"[12, 28, 878]",7.262,19633,245000000,2068223624,J.J. Abrams,"Lucasfilm Ltd., Bad Robot"
+516632,The Empty Man,2020-10-22,"[27, 9648, 53]",6.2,872,16000000,4796993,David Prior,"BOOM! Studios, Out of Africa Entertainment, 20th Century Fox"
+443791,Underwater,2020-01-08,"[27, 878, 28, 12]",6.288,3183,50000000,40882928,William Eubank,"Chernin Entertainment, 20th Century Fox, TSG Entertainment"
+431693,Spies in Disguise,2019-12-04,"[16, 28, 12, 35, 10751]",7.6,2819,100000000,171616764,"Nick Bruno, Troy Quane","Chernin Entertainment, Blue Sky Studios, 20th Century Fox Animation, 20th Century Fox"
+359724,Ford v Ferrari,2019-11-13,"[18, 28, 36]",8.003,8206,97600000,225508210,James Mangold,"20th Century Fox, TSG Entertainment, Chernin Entertainment, Turnpike Films"
+290859,Terminator: Dark Fate,2019-10-23,"[878, 28, 12, 53]",6.4,5219,185000000,261119292,Tim Miller,"20th Century Fox, Skydance Media, Paramount Pictures, Tencent Pictures, TSG Entertainment, Lightstorm Entertainment, Iberdrola, Mid Atlantic Films"
+419704,Ad Astra,2019-09-17,"[878, 18]",6.109,6732,87500000,127461872,James Gray,"New Regency Productions, MadRiver Pictures, Plan B Entertainment, RT Features, Bona Film Group, TSG Entertainment, Keep Your Head Productions, 20th Century Fox"
+575094,Abigail,2019-08-22,"[12, 14, 9648]",6.1,233,7000000,1940234,Aleksandr Boguslavskiy,"Kinodanz, 20th Century Fox"
+320288,Dark Phoenix,2019-06-05,"[878, 28, 12]",6.0,6622,200000000,252442974,Simon Kinberg,"Genre Films, Hutch Parker Entertainment, 20th Century Fox, TSG Entertainment, Marvel Entertainment"
+514439,Breakthrough,2019-04-10,[18],7.6,1088,14000000,49200000,Roxann Dawson,"Fox 2000 Pictures, 20th Century Fox"
+588216,Alien: Specimen,2019-03-30,"[18, 27, 878]",6.1,81,35000,0,Kelsey Taylor,"20th Century Fox, Tongal"
+588211,Alien: Ore,2019-03-30,"[878, 27]",6.2,47,35000,0,"Sam Spear, Kailey Spear","Tongal, 20th Century Fox"
+588210,Alien: Night Shift,2019-03-15,"[878, 27]",6.1,42,35000,0,Aidan Brezonick,"Tongal, 20th Century Fox"
+588209,Alien: Harvest,2019-03-15,"[878, 27]",6.5,53,35000,0,Benjamin Howdeshell,"20th Century Fox, Tongal"
+588207,Alien: Containment,2019-03-15,"[18, 27, 878]",6.1,55,35000,0,Chris Reading,"20th Century Fox, Tongal"
+588204,Alien: Alone,2019-03-15,"[878, 27]",6.2,42,35000,0,Noah Miller,"Tongal, 20th Century Fox"
+586839,Big Three Dragons,2019-02-01,"[35, 10751]",0.0,0,0,0,,"Good Kids Entertainment, 20th Century Fox"
+399579,Alita: Battle Angel,2019-01-31,"[28, 878, 12]",7.236,9348,170000000,405000000,Robert Rodriguez,"Troublemaker Studios, Lightstorm Entertainment, 20th Century Fox, TSG Entertainment"
+454294,The Kid Who Would Be King,2019-01-16,"[28, 12, 14, 10751]",6.179,769,59000000,32140970,Joe Cornish,"Working Title Films, Big Talk Studios, TSG Entertainment, 20th Century Fox"
+569888,The Predator Holiday Special,2018-12-19,"[35, 27, 878, 16]",6.3,12,0,0,Alex Kamer,"20th Century Fox, Stoopid Buddy Stoodios"
+567604,Once Upon a Deadpool,2018-12-11,"[35, 28, 12]",7.086,794,110000000,51349833,David Leitch,"20th Century Fox, Genre Films, Maximum Effort, Marvel Entertainment"
+401469,Widows,2018-11-06,"[80, 53, 18]",6.488,2327,42000000,73900000,Steve McQueen,"20th Century Fox, Regency Enterprises, Film4 Productions, New Regency Pictures, See-Saw Films, Lammas Park, TSG Entertainment"
+424694,Bohemian Rhapsody,2018-10-24,"[10402, 18]",7.978,17040,52000000,918355943,Bryan Singer,"20th Century Fox, Regency Enterprises, GK Films, TSG Entertainment"
+446021,Bad Times at the El Royale,2018-10-04,"[53, 9648, 80, 18]",6.842,3621,32000000,31882724,Drew Goddard,"20th Century Fox, Goddard Textiles, TSG Entertainment"
+220882,London Fields,2018-09-20,"[80, 53]",5.1,271,8000000,487420,Mathew Cullen,"Muse Productions, Periscope Entertainment, Head Gear Films, Curiously Bright Entertainment, Living the Dream Films, MindSky Entertainment, Vedette Finance, Tartan Films, 20th Century Fox"
+346910,The Predator,2018-09-05,"[878, 28, 12, 53]",5.6,4745,88000000,160542134,Shane Black,"Davis Entertainment, TSG Entertainment, 20th Century Fox, Canada Film Capital"
+499572,The Flip Side,2018-08-30,"[35, 18]",5.0,2,0,0,Marion Pilowsky,"Corner Table Productions, 20th Century Fox, Fox International Productions Australia"
+472918,Wiro Sableng: 212 Warrior,2018-08-30,"[28, 35, 12]",6.2,14,0,0,Angga Dwimas Sasongko,"LifeLike Pictures, 20th Century Fox"
+445651,The Darkest Minds,2018-07-25,"[28, 12, 18]",7.03,2831,34000000,41142379,Jennifer Yuh Nelson,"21 Laps Entertainment, 20th Century Fox"
+383498,Deadpool 2,2018-05-15,"[28, 35, 12]",7.488,18266,110000000,785896632,David Leitch,"Maximum Effort, Genre Films, 20th Century Fox, Marvel Entertainment"
+494491,Não se Aceitam Devoluções,2018-05-01,[35],6.5,30,0,0,André Moraes,"Telecine, 20th Century Fox, Brazil Production Services, 20th Century Fox Brazil"
+401981,Red Sparrow,2018-02-28,"[53, 9648]",6.5,6053,69000000,151572634,Francis Lawrence,"Chernin Entertainment, 20th Century Fox, TSG Entertainment"
+455605,Haunted Hospital: Heilstatten,2018-02-22,[27],5.561,278,0,2330777,"Michael David Pate, Martin Goeres","Till Schmerbeck Produktion, 20th Century Fox"
+449176,"Love, Simon",2018-02-16,"[35, 18, 10749]",8.0,6079,17000000,66316289,Greg Berlanti,"Temple Hill Entertainment, Fox 2000 Pictures, New Leaf Literary & Media, 20th Century Fox, Twisted Media"
+336843,Maze Runner: The Death Cure,2018-01-10,"[878, 28, 12, 53]",7.1,7916,62000000,288175335,Wes Ball,"The Gotham Group, Temple Hill Entertainment, 20th Century Fox, Oddball Entertainment"
+446354,The Post,2017-12-22,"[18, 36]",7.002,4638,50000000,179769467,Steven Spielberg,"20th Century Fox, DreamWorks Pictures, Reliance Entertainment, Participant, Amblin Entertainment, Pascal Pictures, TSG Entertainment, Star Thrower Entertainment"
+316029,The Greatest Showman,2017-12-20,[18],7.9,9569,84000000,459066134,Michael Gracey,"Chernin Entertainment, 20th Century Fox, TSG Entertainment"
+364689,Ferdinand,2017-12-09,"[16, 10751, 12, 35]",7.214,2886,111000000,295038508,Carlos Saldanha,"Blue Sky Studios, 20th Century Fox Animation, Davis Entertainment, 20th Century Fox"
+392044,Murder on the Orient Express,2017-11-03,"[9648, 18, 80]",6.7,10065,55000000,352800000,Kenneth Branagh,"The Mark Gordon Company, Genre Films, 20th Century Fox, Scott Free Productions"
+290512,The Mountain Between Us,2017-10-05,"[18, 12, 10749]",6.654,2419,35000000,62832209,Hany Abu-Assad,"Chernin Entertainment, 20th Century Fox, Fox 2000 Pictures"
+343668,Kingsman: The Golden Circle,2017-09-20,"[28, 12, 35, 80, 53, 878]",6.959,10543,104000000,410902662,Matthew Vaughn,"20th Century Fox, Marv, Cloudy Productions, TSG Entertainment"
+281338,War for the Planet of the Apes,2017-07-11,"[18, 878, 10752]",7.204,9174,150000000,490719763,Matt Reeves,"20th Century Fox, TSG Entertainment, Chernin Entertainment"
+417830,Diary of a Wimpy Kid: The Long Haul,2017-05-19,"[35, 10751]",5.349,485,22000000,40120144,David Bowers,"20th Century Fox, TSG Entertainment, Color Force"
+126889,Alien: Covenant,2017-05-09,"[878, 27, 53]",6.2,8818,97000000,240891763,Ridley Scott,"20th Century Fox, Brandywine Productions, Scott Free Productions"
+373569,Snatched,2017-05-03,"[28, 35]",5.344,800,42000000,60800000,Jonathan Levine,"Chernin Entertainment, Feigco Entertainment, 20th Century Fox"
+558144,Deadpool: No Good Deed,2017-03-03,"[28, 35, 80]",7.146,514,0,0,David Leitch,20th Century Fox
+263115,Logan,2017-02-28,"[28, 18, 878]",7.8,19522,97000000,619021436,James Mangold,"Hutch Parker Entertainment, The Donners' Company, Genre Films, 20th Century Fox, Marvel Entertainment, TSG Entertainment"
+340837,A Cure for Wellness,2017-02-15,"[27, 9648, 878]",6.331,3871,40000000,26620002,Gore Verbinski,"Studio Babelsberg, Regency Enterprises, New Regency Pictures, TSG Entertainment, 20th Century Fox, Blind Wink"
+356305,Why Him?,2016-12-22,[35],6.384,4208,38000000,118102725,John Hamburg,"21 Laps Entertainment, TSG Entertainment, 20th Century Fox, Red Hour, 75 Year Plan Productions"
+421725,Scrat: Spaced Out,2016-10-11,"[10751, 878, 35, 16]",6.2,60,0,0,"Galen T. Chu, Mike Thurmeier","Blue Sky Studios, 20th Century Fox Animation, 20th Century Fox"
+283366,Miss Peregrine's Home for Peculiar Children,2016-09-27,"[14, 12, 18, 10751, 53]",6.837,10082,110000000,296482446,Tim Burton,"Chernin Entertainment, Tim Burton Productions, TSG Entertainment, 20th Century Fox"
+377264,Morgan,2016-09-01,"[27, 878, 53]",5.802,1497,8000000,8810591,Luke Scott,"TSG Entertainment, 20th Century Fox, Burk A Project, Isobel Griffiths, Scott Free Productions"
+316023,Mike and Dave Need Wedding Dates,2016-07-07,[35],6.1,2490,33000000,77100000,Jake Szymanski,"Chernin Entertainment, TSG Entertainment, 20th Century Fox"
+278154,Ice Age: Collision Course,2016-06-23,"[12, 16, 10751, 35, 878]",6.1,4608,105000000,408579038,Mike Thurmeier,"Blue Sky Studios, 20th Century Fox Animation, 20th Century Fox"
+47933,Independence Day: Resurgence,2016-06-22,"[28, 12, 878]",5.331,6118,165000000,389681935,Roland Emmerich,"20th Century Fox, TSG Entertainment, Centropolis Entertainment, Stereo D"
+246655,X-Men: Apocalypse,2016-05-18,"[28, 12, 878, 14]",6.512,13114,178000000,543934787,Bryan Singer,"The Donners' Company, Bad Hat Harry Productions, Genre Films, Hutch Parker Entertainment, 20th Century Fox, Marvel Entertainment, TSG Entertainment"
+329718,Finding Altamira,2016-04-01,"[18, 36]",5.8,132,8500000,0,Hugh Hudson,"Morena Films, Movistar+, TVE, Mare Nostrum Productions, Myriad Pictures, Telefónica Studios, 20th Century Fox, Fox International Productions Spain"
+351809,To Steal from a Thief,2016-03-03,"[80, 53]",6.239,370,6700000,9074836,Daniel Calparsoro,"Vaca Films, Morena Films, Telefónica Studios, Invasor Producción, K & S Films, Mare Nostrum Productions, Mediaset España, Movistar+, Canal+ España, Eurimages, INCAA, Ibermedia, Canal+, Telecinco Cinema, Telefe, Hispano Foxfilms S.A.E., 20th Century Fox, Fox International Productions Spain, Film Factory"
+293660,Deadpool,2016-02-09,"[28, 12, 35]",7.6,31452,58000000,782837347,Tim Miller,"20th Century Fox, The Donners' Company, Genre Films, Marvel Entertainment"
+570481,Happy Log,2016-01-21,"[28, 12, 18]",6.3,3,0,0,Gary R. Thieman,"20th Century Fox, ALP Productions, GRT Productions, iPost"
+379053,A World Unseen: 'The Revenant',2016-01-21,[99],6.1,16,0,0,Eliot Rausch,"RauschFilms, 20th Century Fox"
+228066,Victor Frankenstein,2015-11-10,"[18, 878, 53]",5.948,2151,40000000,34200000,Paul McGuigan,"Davis Entertainment, Moving Picture Company, TSG Entertainment, 20th Century Fox"
+367326,Cosmic Scrat-tastrophe,2015-11-06,"[878, 35, 16, 10751, 12]",6.5,130,0,0,Mike Thurmeier,"Blue Sky Studios, 20th Century Fox, 20th Century Fox Animation"
+227973,The Peanuts Movie,2015-11-05,"[35, 16, 10751]",6.929,1674,99000000,246233113,Steve Martino,"Blue Sky Studios, 20th Century Fox Animation, 20th Century Fox, Feigco Entertainment"
+286217,The Martian,2015-09-30,"[18, 12, 878]",7.688,20045,108000000,631058917,Ridley Scott,"Genre Films, TSG Entertainment, 20th Century Fox, Scott Free Productions"
+294254,Maze Runner: The Scorch Trials,2015-09-09,"[878, 28, 53, 12]",6.7,10502,61000000,312296056,Wes Ball,"Temple Hill Entertainment, The Gotham Group, TSG Entertainment, 20th Century Fox"
+362519,Bride Wars,2015-08-20,"[35, 10749]",7.4,18,0,0,Tony Chan,"Bona Film Group, Ivanhoe Pictures, 20th Century Fox"
+166424,Fantastic Four,2015-08-05,"[28, 12, 878]",4.42,6049,120000000,167977596,Josh Trank,"20th Century Fox, Constantin Film, Marvel Entertainment, Marv, Genre Films, Robert Kulzer Productions, TSG Entertainment"
+238713,Spy,2015-05-06,"[28, 35, 80]",6.8,6078,65000000,235666219,Paul Feig,"Chernin Entertainment, Feigco Entertainment, TSG Entertainment, 20th Century Fox"
+1075456,O'Dessa,2025-03-08,"[10402, 18, 878]",6.2,41,0,0,Geremy Jasper,"Searchlight Pictures, RT Features, Department of Motion Pictures"
+661539,A Complete Unknown,2024-12-18,"[18, 10402]",7.1,777,65000000,127117744,James Mangold,"Veritas Entertainment Group, Range Media Partners, The Picture Company, Turnpike Films, White Water, Searchlight Pictures"
+718014,Hold Your Breath,2024-09-12,"[27, 53, 18]",5.9,206,0,0,"Will Joines, Karrie Crouse","Secret Engine, Mad Dog Films, Searchlight Pictures"
+1002626,The Supremes at Earl's All-You-Can-Eat,2024-08-07,"[35, 18]",6.8,17,23000000,0,Tina Mabry,"Searchlight Pictures, Temple Hill Entertainment"
+1029955,Kinds of Kindness,2024-05-30,"[18, 35]",6.575,950,15000000,16398509,Yorgos Lanthimos,"Searchlight Pictures, Film4 Productions, TSG Entertainment, Element Pictures, Limp"
+1011082,The Greatest Hits,2024-04-05,"[18, 10402, 10749, 14]",6.7,126,0,0,Ned Benson,"Groundswell Productions, Flying Point, Searchlight Pictures"
+1448050,Possessing Beauty: The Making of Poor Things,2024-03-12,[99],0.0,0,0,0,Yorgos Lanthimos,"20th Century Studios, Searchlight Pictures, Element Pictures, Film4 Productions, Fruit Tree"
+1014209,Suncoast,2024-02-02,"[18, 35]",6.7,113,0,0,Laura Chinn,"Searchlight Pictures, Freestyle Picture Company, Seven Deuce Entertainment"
+994108,All of Us Strangers,2023-12-22,"[10749, 18, 14]",7.471,811,5000000,14864960,Andrew Haigh,"Film4 Productions, Blueprint Pictures, Searchlight Pictures, TSG Entertainment"
+792307,Poor Things,2023-12-07,"[878, 10749, 35]",7.699,4598,35000000,117607117,Yorgos Lanthimos,"Searchlight Pictures, Film4 Productions, TSG Entertainment, Element Pictures, Limp, Fruit Tree"
+621587,Next Goal Wins,2023-11-16,"[35, 18]",6.4,497,14000000,18062279,Taika Waititi,"The Imaginarium, Searchlight Pictures, TSG Entertainment, Garrett Basch Productions, Defender Films, Archer's Mark"
+893752,Quasi,2023-04-20,"[35, 18]",5.155,71,0,0,Kevin Heffernan,"Broken Lizard Industries, Cataland Films, Searchlight Pictures"
+812635,Chevalier,2023-04-20,"[10402, 18, 36]",6.3,109,35000000,4200000,Stephen Williams,"Searchlight Pictures, Element Pictures, TSG Entertainment"
+1049638,Rye Lane,2023-03-17,"[35, 10749]",7.084,202,0,1600000,Raine Allen-Miller,"Searchlight Pictures, BBC Film, BFI, DJ Films, Turnover Films"
+626332,Flamin' Hot,2023-03-11,"[18, 36]",8.0,698,0,0,Eva Longoria,"Franklin Entertainment, Searchlight Pictures"
+814757,Empire of Light,2022-12-09,"[18, 10749]",6.663,561,13500000,11395604,Sam Mendes,"Searchlight Pictures, Neal Street Productions, TSG Entertainment"
+593643,The Menu,2022-11-17,"[35, 27, 53]",7.176,5204,35000000,79628200,Mark Mylod,"Hyperobject Industries, Searchlight Pictures, Gary Sanchez Productions, TSG Entertainment"
+674324,The Banshees of Inisherin,2022-10-20,"[18, 35]",7.453,2891,20000000,49300000,Martin McDonagh,"Searchlight Pictures, Blueprint Pictures, Film4 Productions, TSG Entertainment"
+766475,See How They Run,2022-09-09,"[9648, 35, 80]",6.37,1141,40000000,21921551,Tom George,"Searchlight Pictures, DJ Films, TSG Entertainment"
+838330,Not Okay,2022-07-29,"[35, 18]",6.3,463,0,0,Quinn Shephard,"Makeready, Searchlight Pictures"
+846250,Fire Island,2022-06-02,"[35, 10749]",7.0,245,10000000,0,Andrew Ahn,"Jax Media, Searchlight Pictures"
+597208,Nightmare Alley,2021-12-02,"[80, 18, 53]",7.0,3004,60000000,39629195,Guillermo del Toro,"Searchlight Pictures, Double Dare You"
+516329,Antlers,2021-10-28,"[18, 27, 9648]",6.2,1115,17000000,18867659,Scott Cooper,"Searchlight Pictures, Phantom Four, Double Dare You, Mirada Studio, TSG Entertainment"
+542178,The French Dispatch,2021-10-21,"[18, 35]",7.029,2663,25000000,46333545,Wes Anderson,"Searchlight Pictures, Indian Paintbrush, American Empirical Pictures"
+601470,The Eyes of Tammy Faye,2021-09-17,"[18, 36]",6.501,617,0,2404127,Michael Showalter,"Freckle Films, MWM Studios, Searchlight Pictures, Semi-Formal Productions, Talent One"
+399363,Wendy,2020-02-28,"[14, 18]",5.7,125,5000000,0,Benh Zeitlin,"Searchlight Pictures, Department of Motion Pictures, Court 13 Pictures, Celluloid Dreams, TSG Entertainment"
+560391,Downhill,2020-02-06,"[18, 35]",5.3,277,0,7547254,"Jim Rash, Nat Faxon","Searchlight Pictures, Likely Story, Filmhaus Films, TSG Entertainment"
+1271927,Ice Age: The Last Adventure of Scrat (The End),2022-04-13,[16],6.7,3,0,0,,Blue Sky Studios
+364689,Ferdinand,2017-12-09,"[16, 10751, 12, 35]",7.214,2887,111000000,295038508,Carlos Saldanha,"Blue Sky Studios, 20th Century Fox Animation, Davis Entertainment, 20th Century Fox"
+387893,Ice Age: The Great Egg-Scapade,2016-03-19,"[12, 16, 35, 10751, 10770]",6.4,481,0,0,Ricardo Curtis,"House of Cool Studios, Blue Sky Studios, 20th Century Fox Animation, Arc Productions"
+1439955,Will Reeve: Finding My Father,2025-01-26,[99],0.0,0,0,0,,ABC Studios
+1374725,Bruce Springsteen: Backstage and Backstreets,2024-10-20,[10402],0.0,0,0,0,,"ABC Studios, ABC Productions"
+759045,John Legend and Family: Bigger Love Father's Day,2020-06-21,"[35, 10770, 10402]",0.0,0,0,0,Bille Woodruff,"ABC Studios, Get Lifted Film Co., Done+Dusted"
+662240,What Is Jeopardy!?: Alex Trebek and America's Most Popular Quiz Show,2020-01-02,"[18, 99]",10.0,3,0,0,,"ABC News, ABC Studios, ABC Signature Studios"
+657148,"Live in Front of a Studio Audience: ""All in the Family"" and ""Good Times""",2019-12-18,"[35, 10770, 10751]",6.1,13,0,0,"Andy Fisher, James Burrows, Pamela Fryman","Act III Productions, Gary Sanchez Productions, Simpson Street, Sony Pictures Television, ABC Studios"
+563925,Mary Poppins Returns: Behind the Magic,2018-11-22,[99],6.2,13,0,0,,ABC Studios
+667193,For Love,2018-01-01,"[18, 10770]",10.0,1,0,0,John Dahl,ABC Studios
+451974,Let It Fall: Los Angeles 1982-1992,2017-04-21,"[99, 36]",7.7,19,0,0,John Ridley,ABC Studios
+1452608,"Medina - 9,90 Uma história por trás da foto",2025-03-21,[99],0.0,0,0,0,Guilherme Aguilar,"ESPN Brasil, Disney Creative Marketing Brasil, ESPN"
+1399199,The Simpsons Funday Football,2024-12-09,"[16, 35]",0.0,0,0,0,Mike B. Anderson,"ESPN, Gracie Films, 20th Century Animation"
+1398075,Leonardo Ruiz vs. Elias Haedo,2024-12-06,[],0.0,0,0,0,,"ESPN, Miura Boxing, Top Rank"
+1392192,Elwin Soto vs. Moises Caro,2024-11-23,[],0.0,0,0,0,,"Top Rank, ESPN, Zanfer Boxing"
+1392186,Bakary Samake vs. Wade Ryan,2024-11-23,[],0.0,0,0,0,,"Top Rank, ESPN"
+1364723,Florida Panthers' 2024 Stanley Cup Championship Film,2024-10-01,[99],10.0,1,0,0,,"ESPN, NHL Productions"
+1338889,No Place Like Nebraska,2024-08-25,[99],0.0,0,0,0,"Jennifer Karson-Strauss, Madeline Rundlett","E:60, ESPN Films, ESPN"
+1327697,Angel Ayala vs. Dave Apolinario,2024-08-09,[],0.0,0,0,0,,ESPN
+1301279,NHL Big City Greens Classic 2,2024-03-09,"[16, 10770]",0.0,0,0,0,,"Disney Television Animation, NHL Productions, ESPN Films, ESPN"
+1218556,World MMA Awards 2023,2023-12-14,[28],0.0,0,0,0,,ESPN
+1195321,The Minister of Defense,2023-11-14,[99],0.0,0,0,0,"Courtland Bragg, Ken Rodgers",ESPN
+1186458,The incredible rise of Haris Rauf,2023-10-01,[99],0.0,0,0,0,Shruti Savanal,ESPN
+1162380,The Gentleman Boxer: Richard Torrez Jr.,2023-08-07,[99],0.0,0,0,0,,"Top Rank, ESPN"
+1162024,Made in Mexico: Navarrete vs. Valdez,2023-08-07,[],0.0,0,0,0,,"Top Rank, ESPN"
+1154491,Camp Life: Inoue vs. Fulton,2023-07-17,[99],0.0,0,0,0,,"ESPN, Top Rank"
+1144905,Relentless: Jared Anderson,2023-06-25,[],0.0,0,0,0,,"ESPN, Top Rank"
+1143893,PFL 2023 #6: Regular Season - Aubin-Mercier vs. Romero,2023-06-23,[],0.0,0,0,0,,ESPN
+1140751,PFL 2023 #5: Regular Season - Delija vs. Greene,2023-06-16,[],0.0,0,0,0,,ESPN
+1140034,Once Upon a Time in Anaheim,2023-06-11,[99],0.0,0,0,0,"Russell Dinallo, Scott Cikowski",ESPN
+1136992,Trash Talk: Taylor vs. Lopez,2023-06-04,[99],0.0,0,0,0,,"Top Rank, ESPN"
+1178793,Little Choices,2023-05-14,[],0.0,0,0,0,,ESPN
+1110984,The American Gladiators Documentary,2023-05-02,[99],7.5,2,0,0,"Ben Berman, Kirk C. Johnson","Vice Studios, ESPN Films, ESPN"
+1106634,LISTEN,2023-03-28,"[99, 10770, 80]",0.0,0,0,0,Nicole Noren,"ESPN Films, ESPN"
+1106042,"Blood, Sweat & Tears: Ramirez vs. Dogboe",2023-03-27,[99],0.0,0,0,0,,"Top Rank, ESPN"
+1103482,The Dream Americano,2023-03-19,[99],0.0,0,0,0,,"Top Rank, ESPN"
+1087749,Disney NHL Big City Greens Classic,2023-03-14,"[16, 10770]",2.0,1,0,0,,"Disney Television Animation, NHL Productions, ESPN Films, ESPN"
+1082095,Bullies of Baltimore,2023-02-05,[99],6.3,3,0,0,"Ken Rodgers, Jason Weber","ESPN Films, ESPN, NFL Films"
+1080928,The Perfect Machine,2023-02-05,"[99, 10770]",0.0,0,0,0,Dan Lindberg,"ESPN, ESPN Films"
+1082580,GR8TNESS,2023-02-04,[99],0.0,0,0,0,,ESPN
+1081368,Erik Bazinyan vs. Alantez Fox,2023-02-02,[],0.0,0,0,0,,"Top Rank, ESPN"
+1073753,Kim Clavel vs. Jessica Nery Plata,2023-01-13,[],0.0,0,0,0,,ESPN
+1178814,The Band is on the Field,2022-11-13,[],0.0,0,0,0,,ESPN
+1046894,Jeanette Lee Vs.,2022-11-12,[99],0.0,0,0,0,Ursula Liang,"Words + Pictures, ESPN Films, ESPN"
+999368,Dickie V,2022-07-20,[99],0.0,0,0,0,Nick Nanton,"ESPN, ESPN Films, Astonish Entertainment, The Montag Group"
+1178808,Poking the Polar Bear,2022-06-22,[],0.0,0,0,0,,ESPN
+969698,Oscar Valdez vs. Shakur Stevenson,2022-04-30,[28],6.0,1,0,0,,ESPN
+942097,Tyson Fury vs. Dillian Whyte,2022-04-23,[28],0.0,0,0,0,,"BT Sport Box Office HD, ESPN, Top Rank, Queensberry Promotions"
+942688,Shark,2022-04-19,[99],5.7,3,0,0,"Thomas Odelfelt, Jason Hehir","ESPN, ESPN Films, Words + Pictures"
+1178817,The Paterno Legacy,2022-04-18,[99],0.0,0,0,0,,ESPN
+929174,The Tuck Rule,2022-02-06,[99],7.0,2,0,0,"Nick Mascolo, Ken Rodgers","ESPN, ESPN Films, 199 Productions, Build Your Legend Productions, NFL Films"
+1178809,Bonds,2021-11-08,[],0.0,0,0,0,,ESPN
+1178827,More Than a Voice,2021-09-26,[],0.0,0,0,0,Shaun Silva,ESPN
+1178807,Alive: The Drew Robinson Story,2021-07-03,[],0.0,0,0,0,Martin Khodabakhshian,ESPN
+839925,Shakur Stevenson vs. Jeremiah Nakathila,2021-06-12,"[28, 99]",0.0,0,0,0,,"ESPN, ESPN Films"
+837521,30 for 30: The Bunny & the GOAT,2021-06-06,[35],5.0,5,0,0,Malcolm D. Lee,"Warner Bros. Pictures, ESPN, NBA Entertainment"
+831748,Jose Ramirez vs Josh Taylor,2021-05-22,[28],0.0,0,0,0,,"ESPN, Top Rank"
+829462,144,2021-05-13,[99],7.5,2,0,0,"Lauren Stowell, Jenna Contreras",ESPN
+674446,D. Wade: Life Unexpected,2020-02-23,[99],7.0,10,0,0,Bob Metelus,"ESPN, Imagine Entertainment, Imagine Documentaries"
+668060,Vick,2020-01-30,[99],6.8,4,0,0,Stanley Nelson,"ESPN Films, ESPN"
+667903,Kobe Bryant: The Death of a Legend,2020-01-28,[99],5.0,1,0,0,,"ABC News, ESPN"
+653733,Be Water,2020-01-25,[99],6.8,51,0,0,Bao Nguyen,"ESPN, Dorothy St Pictures, East Films"
+638182,Chuck & Tito,2019-10-15,[99],7.0,2,0,0,Micah Brown,"ESPN, Second Wind Creative, ESPN Films"
+604839,Rodman: For Better or Worse,2019-09-01,"[99, 10770]",8.2,11,0,0,Todd Kapostasy,"ESPN, Five All in the Fifth Entertainment"
+627330,College Football 150 - Football Is US: The College Game,2019-08-24,[99],0.0,0,0,0,Jonathan Hock,ESPN
+651164,The Class That Saved Coach K,2019-08-22,[99],0.0,0,0,0,Jonathan Hock,"ESPN, ESPN Films"
+966569,Backstory: Serena vs. The Umpire,2019-08-19,[99],6.7,3,0,0,Timothy M. Hogan,"ESPN Films, ESPN"
+576698,Qualified,2019-03-10,[99],6.1,10,0,0,Jenna Ricker,"ESPN Films, ESPN"
+1178812,Qatar's World Cup,2018-04-05,[],0.0,0,0,0,,ESPN
+511523,The Black 14,2018-03-01,[99],0.0,0,0,0,Darius Clark Monroe,ESPN
+500451,1976: O Ano da Invasão Corinthiana,2016-09-29,[99],10.0,1,30000,200000,Ricardo Aidar,"Canal Azul, ESPN, ESPN Brasil"
+359035,Trojan War,2015-10-13,[99],7.0,5,0,0,Aaron Rahsaan Thomas,"ESPN Films, ESPN"
+1360677,The Devil's Climb,2024-10-17,[99],7.8,16,0,0,Renan Öztürk,"National Geographic, Plimsoll Productions"
+1310161,Attack of the Red Sea Sharks,2024-06-30,[99],0.0,0,0,0,,National Geographic
+1310156,Shark vs. Ross Edgley,2024-06-30,[99],0.0,0,0,0,,National Geographic
+1126538,Shark Beach with Anthony Mackie,2024-06-30,[99],0.0,0,0,0,Matthew Kay,National Geographic
+1274465,EPCOT Becoming: Inside the Transformation,2024-04-29,[99],8.0,2,0,0,,National Geographic
+1242387,Billy & Molly: An Otter Love Story,2024-03-09,[99],8.1,10,0,0,Charlie Hamilton James,"Silverback Films, National Geographic"
+1210407,The History of Indian Elections,2023-11-18,[99],0.0,0,0,0,Chandrashekhar Reddy,National Geographic
+1177672,Explorer: Lake of Fire,2023-10-26,"[99, 12, 10770]",7.2,5,0,0,Renan Öztürk,National Geographic
+1186275,Bombing Pompeii,2023-08-29,[99],8.0,1,44,0,"Fabio Cerveira, Fabio Cerveira",National Geographic
+1153907,Explorer: Lost in the Arctic,2023-08-24,"[99, 10770]",6.4,8,0,0,Renan Öztürk,National Geographic
+1138603,Shark Below Zero,2023-07-02,"[99, 10770]",0.0,0,0,0,Mark Woodward,National Geographic
+1129008,Bull Shark Bandits,2023-07-02,"[99, 10770]",10.0,1,0,0,Colin Thrupp,"National Geographic, Breakout Productions, Icon Films"
+1129006,Bull Shark vs. Hammerhead,2023-07-02,"[99, 10770]",6.5,2,0,0,,National Geographic
+1126547,Sharks vs. Dolphins: Bahamas Battleground,2023-07-02,"[99, 10770]",10.0,1,0,0,,National Geographic
+1126543,Sharkcano: Hawaii,2023-07-02,"[99, 10770]",0.0,0,0,0,Kevin Bachar,"National Geographic, Pangolin Pictures"
+1126542,Shark Eat Shark,2023-07-02,"[99, 10770]",5.0,1,0,0,Kira Ivanoff,"National Geographic, Big Wave Productions Ltd."
+1126536,Saved From a Shark,2023-07-02,"[99, 10770]",0.0,0,0,0,,"National Geographic, NHNZ Worldwide, NHNZ"
+1126526,Return of the White Shark,2023-07-02,[99],8.3,6,0,0,Brian Skerry,National Geographic
+1312527,Earth from Above Mashup‎,2023-06-07,[99],0.0,0,0,0,,National Geographic
+1299958,Wild Babies of America's National Parks,2023-06-05,[99],0.0,0,0,0,Lisa Feit,National Geographic
+1126484,Pride From Above,2023-06-01,"[99, 10770]",6.8,6,0,0,Jen Kerrison,"National Geographic, Windfall Films"
+1094137,Charles: In His Own Words,2023-04-28,"[99, 10770]",5.0,2,0,0,Tom Jennings,"1895 Films, National Geographic"
+1096369,Wild Life,2023-04-14,[99],7.3,13,0,0,"Jimmy Chin, Elizabeth Chai Vasarhelyi","National Geographic, Little Monster Films, National Geographic Documentary Films"
+1087110,National Geographic Investigates: Narco State: Aftermath,2023-03-09,"[99, 10770]",0.0,0,0,0,,National Geographic
+1076064,National Geographic Investigates - Peru's Mass Grave: The Ghosts of Kuélap,2023-02-23,"[99, 10770]",7.0,1,0,0,,National Geographic
+1126514,Frederick Douglass and Abraham Lincoln: Two Leaders,2023-02-19,"[99, 10770]",0.0,0,0,0,"Anna Derryberry, Laura Anderson","National Geographic, Walt Disney Imagineering"
+1063005,Making The Disney Wish: Disney’s Newest Cruise Ship,2023-02-17,"[99, 10770]",5.5,4,0,0,Chad Cohen,National Geographic
+1076036,National Geographic Investigates: Legal Marijuana in America,2023-02-16,[99],2.0,1,0,0,,National Geographic
+1076255,National Geographic Investigates: Great Lakes Wreckage,2023-02-09,"[99, 10770]",0.0,0,0,0,,National Geographic
+1076251,National Geographic Investigates - Battle for Alaska's Oil,2023-02-09,"[99, 10770]",2.0,1,0,0,,National Geographic
+1076250,National Geographic Investigates - Invaders: Colombia's Hippos,2023-02-02,"[99, 10770]",0.0,0,0,0,,National Geographic
+1076070,National Geographic Investigates: LSD and Psychedelics,2023-01-25,"[99, 10770]",8.0,1,0,0,,National Geographic
+1076053,National Geographic Investigates - Narco Bling: Chapo Guzman End Game,2023-01-18,"[99, 10770]",0.0,0,0,0,,National Geographic
+1077000,Pablo Escobar: Man vs. Myth,2022-12-22,"[99, 10770]",0.0,0,0,0,,National Geographic
+1075839,Inside Airport Lost & Found,2022-12-21,[99],2.0,1,0,0,Jennifer Brehm,National Geographic
+1063779,Nazis at Nuremberg: The Lost Testimony,2022-12-05,"[10752, 99, 36, 10770]",6.6,8,0,0,Liz Reph,"National Geographic, Steve Rotfeld Productions"
+1040775,Tut's Toxic Tomb,2022-11-03,"[99, 10770]",6.0,1,0,0,Graeme Hart,"Blink Films, Channel 4 Television, National Geographic, SBS"
+1019391,Retrograde,2022-10-17,"[99, 10752, 36]",7.1,21,0,0,Matthew Heineman,"Our Time Projects, National Geographic, National Geographic Documentary Films"
+1044290,Crocodiles Revealed,2022-10-01,"[99, 10770]",6.0,2,0,0,,National Geographic
+1037604,The Flagmakers,2022-09-18,[99],5.4,5,0,0,"Cynthia Wade, Sharon Liese","National Geographic, National Geographic Documentary Films"
+1024582,Islas Canarias: Nacidas del fuego,2022-09-12,[99],5.0,2,0,0,,National Geographic
+1299962,Living Wild: Animals of America’s National Parks,2022-09-02,[99],0.0,0,0,0,Lisa Feit,National Geographic
+988365,Jaws Invasion,2022-07-19,"[99, 10770]",6.0,1,0,0,,National Geographic
+988340,Shark Superpower,2022-07-12,"[99, 10770]",5.5,2,0,0,Jennie Hammond,"Wildstar Films, National Geographic"
+988334,Game of Sharks,2022-07-11,"[99, 10770]",5.8,4,0,0,Anna Derryberry,National Geographic
+988327,Sharks vs. the World,2022-07-11,"[99, 10770]",0.0,0,0,0,,National Geographic
+988357,Jaws vs. Boats,2022-07-10,"[99, 10770]",2.0,1,0,0,Kevin Bachar,National Geographic
+988354,Sharks That Eat Everything,2022-07-10,"[99, 10770]",2.0,1,0,0,,National Geographic
+988350,Shark Side of the Moon,2022-07-10,"[99, 10770]",4.5,2,0,0,"Sarah V. Burns, Alex Sherratt","National Geographic, Roller Coaster Road Productions"
+988342,Shark Queens,2022-07-10,"[99, 10770]",2.0,2,0,0,Tamira Connolly,National Geographic
+988337,Counting Jaws,2022-07-10,"[99, 10770]",3.5,2,0,0,,National Geographic
+988329,Sky Sharks,2022-07-10,"[99, 10770]",2.0,1,0,0,Jennie Hammond,National Geographic
+988325,Camo Sharks,2022-07-10,"[99, 10770]",4.0,2,0,0,"Sarah V. Burns, Alex Sherratt","National Geographic, Africa Media, Roller Coaster Road Productions, Ryan Johnson"
+979151,Prehistoric Women,2022-05-22,"[99, 36]",10.0,1,0,0,Fabrice Buysschaert,"La Famiglia, National Geographic, National Geographic Channels International"
+1019362,Gorongosa: Paradise Reborn,2022-04-22,[99],6.7,3,0,0,Lisa Feit,National Geographic
+927085,The Biggest Little Farm: The Return,2022-04-22,[99],7.5,31,0,0,John Chester,"National Geographic, FarmLore Films, Apricot Lane Farms, NEON"
+962288,Path of the Panther,2022-04-16,[99],7.0,3,0,0,Eric Bendick,"Grizzly Creek Films, Wildpath, Common Pictures, Appian Way, National Geographic"
+927081,Explorer: The Last Tepui,2022-04-06,[99],7.6,46,0,0,"Taylor Rees, Renan Öztürk","National Geographic, ABC News"
+973288,Zebras of the Serengeti,2022-04-03,"[99, 10770]",0.0,0,0,0,,National Geographic
+934660,We Feed People,2022-03-19,[99],7.0,21,0,0,Ron Howard,"National Geographic, Imagine Documentaries, National Geographic Documentary Films, Imagine Entertainment"
+926593,Clotilda: Last American Slave Ship,2022-02-07,[99],6.0,4,0,0,Lisa Feit,National Geographic
+930966,Mega Moving,2022-01-16,[99],0.0,0,0,0,,National Geographic
+730057,Torn,2021-12-03,[99],6.9,25,0,0,Max Lowe,"National Geographic, Lightbox Entertainment, Wilderpeople Productions, National Geographic Documentary Films"
+890673,The Emirates From Above,2021-12-02,"[99, 10770]",8.0,2,0,0,,"Windfall Films, National Geographic"
+811769,The First Wave,2021-11-19,"[99, 36]",6.8,28,0,60511,Matthew Heineman,"National Geographic, Our Time Projects, Participant, National Geographic Documentary Films"
+774823,Becoming Cousteau,2021-10-22,[99],7.0,29,0,244223,Liz Garbus,"National Geographic, The Cousteau Society, Story Syndicate, Ace Content, Diamond Docs, National Geographic Documentary Films"
+680058,The Rescue,2021-10-08,[99],7.951,226,0,946634,"Jimmy Chin, Elizabeth Chai Vasarhelyi","Cavalry Media, Little Monster Films, National Geographic, Ventureland, Storyteller Productions, Passion Pictures, Michael De Luca Productions, National Geographic Documentary Films"
+825422,Fauci,2021-09-10,[99],3.2,26,0,0,"Janet Tobias, John Hoffman","National Geographic, Story Syndicate, Sierra Tango Productions, Better World Projects, Diamond Docs, Magnolia Pictures, National Geographic Documentary Films"
+862525,Smoky Mountain Park Rangers,2021-08-06,[99],0.0,0,0,0,Justin Weinrich,"Lucky 8 TV, National Geographic"
+850989,Killer Shark Vs. Killer Whale,2021-08-06,[99],5.8,4,0,0,,National Geographic
+841673,Orca Vs. Great White,2021-07-09,[99],6.1,8,0,0,Sigmund Spath Jr.,National Geographic
+836691,Shark Beach with Chris Hemsworth,2021-07-05,"[99, 10770]",6.4,16,0,0,Sally Aitken,"Nutopia, National Geographic"
+776553,Playing with Sharks,2021-06-05,[99],7.7,10,0,61404,Sally Aitken,"National Geographic, WildBear Entertainment, National Geographic Documentary Films"
+879086,Lost Cities: The Great Flood,2021-05-09,[99],3.0,1,0,0,Jim Greayer,"Caravan Media, Tambo Film, MA Productions House, National Geographic"
+900255,Sharks of Hawaii,2021-04-21,[99],0.0,0,0,0,,National Geographic
+799040,Built for Mars: The Perseverance Rover,2021-02-21,[99],7.2,5,0,0,Mark Davis,"National Geographic, MDTV Productions"
+797755,The New Air Force One: Flying Fortress,2021-02-16,[99],4.9,7,0,0,Scott Bateman,"Renegade Pictures, National Geographic"
+812410,Flooded Tombs of the Nile,2021-02-05,"[99, 36]",7.2,4,0,0,Katie Bauer Murdock,National Geographic
+790065,Leopard & Hyena: Strange Alliance,2021-01-30,"[99, 10770]",0.0,0,0,0,,National Geographic
+794596,Ghost of the Minerva,2021-01-27,[99],7.0,1,0,0,Stéphane Rybojad,"National Geographic, Memento Productions"
+936722,America The Beautiful: Wild Winter,2021-01-01,[99],0.0,0,0,0,,National Geographic
+891629,Lost Tombs of the Pyramids,2020-12-20,"[99, 36, 9648]",6.6,9,0,0,,"Windfall Films, National Geographic"
+639668,The Ghosts Above,2020-12-02,[99],0.0,0,0,0,"Taylor Rees, Jay Macmillan, Renan Öztürk","National Geographic, Expedition Everest"
+775223,Going Viral: From Ebola to Covid-19,2020-11-30,[99],0.0,0,0,0,Leslie Schwerin,National Geographic
+770278,"Viruses, the Global Threat",2020-11-29,[99],0.0,0,0,0,"Misha Rezvi, JJ Kelley","Sixty Six Media, National Geographic, National Geographic Channels International"
+789215,Breakthrough: Virus Fighters,2020-11-23,[99],0.0,0,0,0,,"Imagine Entertainment, Imagine Documentaries, National Geographic"
+753325,The Real Right Stuff,2020-11-20,"[99, 36]",6.4,13,0,0,Tom Jennings,"1895 Films, National Geographic"
+775779,Inside North Korea: The Next Leader,2020-11-08,[99],7.0,2,0,0,Laura Anderson,National Geographic
+751545,Wild Portugal,2020-10-09,"[99, 10770]",7.7,7,0,0,Christian Baumeister,"Light & Shadow, National Geographic"
+764198,Assignment Inspiration,2020-09-17,[99],0.0,0,0,0,Kurt Spenser,"Radley Studios, National Geographic"
+746807,Bin Laden's Hard Drive,2020-09-10,[99],6.5,8,0,0,Aaron Kunkel,National Geographic
+806707,Sharks of the Bermuda Triangle,2020-08-13,[99],7.5,4,0,0,,"Hoff Productions, National Geographic"
+851012,Secrets of the Bull Shark,2020-08-10,[99],7.0,2,0,0,,National Geographic
+843979,Shark Vs. Whale,2020-07-28,[99],8.0,1,0,0,,"Earth Touch, National Geographic, Ryan Johnson"
+787019,50 Shades of Sharks,2020-07-17,"[99, 10770]",6.0,1,0,0,"Alexis Barbier-Bouvet, Didier Noirot",National Geographic
+851013,Most Wanted Sharks,2020-07-15,"[99, 10770]",5.0,2,0,0,,National Geographic
+811282,What the Shark?,2020-07-04,"[99, 10770]",5.0,2,0,0,,National Geographic
+717320,Tutankhamun In Colour,2020-06-18,"[99, 36]",7.8,4,0,0,Paul Bradshaw,"BBC Four, Blakeway Productions, France Télévisions, National Geographic"
+714430,Akashinga: The Brave Ones,2020-06-17,[99],6.7,3,0,0,Maria Wilhelm,"National Geographic, National Geographic Documentary Films"
+716419,Race Against Pandemic,2020-06-14,[99],7.9,92,0,0,Maya Dykes,National Geographic
+716881,The Lost Forest,2020-05-22,[99],0.0,0,0,0,Orlando von Einsiedel,"Rideback, Grain Media, National Geographic"
+727693,Still Human,2020-05-21,[99],6.0,1,0,0,Orlando von Einsiedel,"National Geographic, Grain Media, Rideback"
+733154,An Unfinished Symphony,2020-05-20,[99],0.0,0,0,0,Orlando von Einsiedel,"Grain Media, Rideback, National Geographic"
+704854,Lost on Everest,2020-05-15,"[99, 9648]",7.6,49,0,0,"Drew Pulley, Renan Öztürk",National Geographic
+804151,Snake Island: Wild & Deadly,2020-03-27,[99],0.0,0,0,0,Leighton De Barros,"National Geographic, Sea Dog TV International"
+669441,Women of Impact: Changing the World,2020-03-08,[99],9.5,1,0,0,Lisa Feit,National Geographic
+732965,India's Wild Leopards,2020-02-26,"[99, 10770]",5.5,2,0,0,,"National Geographic, Felis Creations"
+682666,Back to the Titanic,2020-02-23,[99],6.4,15,0,0,Tom Stubberfield,"National Geographic, Atlantic Productions"
+684860,Hitler's Teen Killers,2020-02-18,"[36, 10752, 99, 10770]",7.2,6,0,0,Julien Johan,"ZED, National Geographic"
+653751,Rebuilding Paradise,2020-01-23,[99],6.0,13,0,0,Ron Howard,"National Geographic, Imagine Documentaries, Imagine Entertainment, National Geographic Documentary Films"
+664027,Mars: One Day on the Red Planet,2020-01-05,[99],6.4,14,0,0,Martin Johnson,"National Geographic, The Garden Productions"
+702644,Ocean’s Breath,2019-12-25,"[99, 10770]",6.0,2,0,0,Michele Melani,"National Geographic, Formasette"
+657310,Mysteries of The Underworld Cordoba,2019-12-15,"[99, 10770]",9.0,1,0,0,Fernando González Sitges,"National Geographic, Minotauro Comunicación"
+702897,The Archaeological Mysteries of the Equinox,2019-12-01,[],0.0,0,0,0,,National Geographic
+662389,Pompeii: Secrets of the Dead,2019-11-24,[99],6.6,49,0,0,Ben Finney,National Geographic
+711564,Chasing the Equinox,2019-11-19,"[99, 36, 10770]",7.3,6,0,0,Kenny Scott,"National Geographic, Pioneer Productions"
+619271,Expedition Amelia,2019-10-20,"[99, 36, 10770]",7.3,12,0,0,Chad Cohen,National Geographic
+624842,The Nightcrawlers,2019-10-01,[99],5.2,4,0,0,Alexander A. Mora,"Violet Films, Genius Loki Films, National Geographic, National Geographic Documentary Films"
+566219,Sea of Shadows,2019-09-20,[99],7.7,53,0,0,Richard Ladkani,"Terra Mater Factual Studios, National Geographic, National Geographic Documentary Films"
+624837,Lost and Found,2019-09-18,[99],8.0,1,0,0,Orlando von Einsiedel,"National Geographic, National Geographic Documentary Films, Rideback"
+816986,Incredible Bats,2019-09-08,"[99, 10770]",0.0,0,0,0,Graeme Duane,National Geographic
+723223,Into the Fire,2019-09-01,[99],0.0,0,0,0,Orlando von Einsiedel,"National Geographic, Rideback"
+694930,The Tragedy of the Bridge of Genoa,2019-08-13,[99],0.0,0,0,0,,National Geographic
+637995,Eyewitness: D-Day,2019-07-30,"[99, 10752]",7.5,5,0,0,Hereward Pelling,National Geographic
+851814,World's Biggest Great White?,2019-07-21,[99],4.2,4,0,0,,"National Geographic, Remedy Television + Branded"
+614278,The Armstrong Tapes,2019-07-08,[99],6.5,2,0,0,Liz Reph,National Geographic
+746664,The Giant Robber Crab,2019-06-28,[99],6.2,5,0,0,"Moritz Katz, Braydon Moloney","National Geographic, Atara Film GmbH, NDR Naturfilm, Terra Mater Factual Studios"
+713934,Lost World of the Maya,2019-06-24,[99],0.0,0,0,0,Jeremy Zipple,National Geographic
+671345,Building the Channel Tunnel,2019-06-12,"[99, 10770]",0.0,0,0,0,Edward McGown,"Windfall Films, Channel 5, National Geographic"
+606759,Heroes of The Mediterranean,2019-06-03,[99],0.0,0,0,0,Manu San Félix,National Geographic
+607640,Going Viral: Beyond the Hot Zone,2019-05-30,[],8.0,4,0,0,,National Geographic
+647113,Maginot vs Siegfried : la guerre des lignes,2019-05-20,"[99, 10752, 36]",6.0,1,0,0,Barbara Necek,"ZED, National Geographic, ZDF"
+593095,Inside the Internet: 50 Years of Life Online,2019-05-04,[99],6.2,3,0,0,Dermot Mulroney,National Geographic
+765158,Ultimate Viking Sword,2019-03-11,"[99, 36]",0.0,0,0,0,,"National Geographic, KPBS"
+642584,The Lost Tomb of Alexander the Great,2019-03-04,[99],6.8,11,0,0,Duncan Singh,"Blakeway Productions, National Geographic"
+589325,Riddle of the Stone Age Giants,2019-02-24,"[99, 36, 10770]",7.0,1,0,0,Laura Anderson,National Geographic
+625352,Deepwater Horizon: In Their Own Words,2019-02-17,[99],5.0,1,0,0,Tom Jennings,"National Geographic, 1895 Films"
+782399,24 Hours of Reality,2018-12-20,[99],0.0,0,0,0,,National Geographic
+889317,Wild Botswana,2018-12-14,"[99, 10770]",0.0,0,0,0,,National Geographic
+782472,Becoming Immortal: How Susan Potter Will Live Forever,2018-12-14,[],0.0,0,0,0,,National Geographic
+608590,Paris to Pittsburgh,2018-12-12,[99],6.2,8,0,0,"Sidney Beaumont, Michael Bonfiglio","RadicalMedia, National Geographic"
+756288,The Last Secrets of the Nasca,2018-12-01,[99],6.5,4,0,0,Jean-Baptiste Erreca,"One Planet, National Geographic"
+616104,The Flood,2018-11-25,"[99, 10770]",5.7,6,0,0,Brad Bestelink,"Icon Films, National Geographic"
+568161,Mission to the Sun,2018-11-18,[99],6.5,20,0,0,Daniel M. Smith,National Geographic
+817917,Explorer Investigation: The National Museum Fire,2018-11-06,[99],0.0,0,0,0,Rafael Calil,"VICE Media, National Geographic"
+1036663,Secrets of the Space Station,2018-11-04,[99],0.0,0,0,0,,National Geographic
+681438,Curiosity: Life of A Mars Rover,2018-11-04,[99],9.0,1,0,0,Mark Davis,National Geographic
+555511,Mafia Confidential,2018-10-22,"[99, 80]",7.0,1,0,0,Jovica Nonkovic,National Geographic
+853227,Mystery Skeletons of the Sahara,2018-10-17,[99],0.0,0,0,0,David Murdock,National Geographic
+493121,Science Fair,2018-09-14,[99],7.2,17,0,0,"Cristina Costantini, Darren Foster","Muck Media, Fusion Media Group, National Geographic, National Geographic Documentary Films"
+690239,Save The Titanic : Treasures From The Deep,2018-07-09,[99],6.2,4,0,0,,National Geographic
+567913,Black Pharaohs: Empire of Gold,2018-07-03,"[99, 36]",8.0,1,0,0,James Barrat,National Geographic
+529300,korong ema,2018-06-10,[99],0.0,0,0,0,,National Geographic
+542314,Maradona Confidential,2018-05-28,[99],6.4,18,0,0,Jovica Nonkovic,National Geographic
+1066797,Mega Food: Up In The Air,2018-05-26,[99],0.0,0,0,0,,National Geographic
+802761,Hitler's Battle Against the Press,2018-05-05,"[10770, 99, 36]",6.8,3,0,0,"Ute Bönnen, Gerald Endres",National Geographic
+944195,Inside North Korea: The Kim Dynasty,2018-05-04,[99],8.0,1,0,0,,"Pangloss Films, National Geographic, NGC Studios"
+1236823,Jeunesses hitlériennes : L'endoctrinement d'une nation,2018-05-01,[99],8.0,1,0,0,David Korn-Brzoza,"ZED, France Télévisions, National Geographic"
+520446,Into the Okavango,2018-04-22,[99],7.4,28,0,0,Neil Gelinas,"National Geographic, National Geographic Documentary Films"
+630905,Tree Climbing Lions,2018-04-06,"[99, 10770]",7.2,6,0,0,Katie Bauer Murdock,National Geographic
+782405,After Hitler: The Untold Story,2018-03-27,[36],0.0,0,0,0,"Olivier Wieviorka, David Korn-Brzoza",National Geographic
+946174,South America Untamed,2018-02-18,[99],8.0,1,0,0,,"National Geographic, NDR Naturfilm, Doclights"
+813889,Clash of Tigers,2018-02-17,"[99, 10770]",0.0,0,0,0,Emma Rigney,National Geographic
+504224,Lost Treasures of the Maya Snake Kings,2018-02-06,[],0.0,0,0,0,,"National Geographic, Wild Blue Media"
+894521,Lost Cities of the Amazon: The Legend Is Real,2018-01-01,[99],7.0,1,0,0,Philip Day,National Geographic
+649162,Man Among Cheetahs,2017-12-31,"[99, 10770]",7.2,4,0,0,Richard Slater-Jones,National Geographic
+470819,Jane,2017-12-28,[99],7.489,136,0,1723379,Brett Morgen,"Public Road Productions, National Geographic, National Geographic Documentary Films"
+727363,The Epic of Ancient Greece,2017-12-06,[99],0.0,0,0,0,Chad Cohen,National Geographic
+578499,Heroes of the Long Road Home with Martha Raddatz,2017-11-22,[99],0.0,0,0,0,Pierre sérisier,National Geographic
+579425,Chasing Paper,2017-10-28,[99],0.0,0,0,0,,National Geographic
+670075,Jaguar vs. Croc,2017-10-12,"[99, 10770]",8.0,1,0,0,"Steve Winter, Bertie Gregory",National Geographic
+896645,Inside North Korea: Then and Now with Lisa Ling,2017-10-01,[99],8.0,3,0,0,"Robert Zakin, Peter Yost",National Geographic
+456231,Breaking2,2017-09-20,[99],8.5,10,0,0,Martin Desmond Roe,National Geographic
+937326,"Namibia, Sanctuary of Giants",2017-07-29,"[99, 10770]",0.0,0,0,0,Harald Pokieser,"Terra Mater Factual Studios, National Geographic"
+450875,LA 92,2017-04-28,"[99, 36]",7.7,122,0,0,"T.J. Martin, Daniel Lindsay","National Geographic, National Geographic Documentary Films"
+892405,Deep Sea Killers,2017-04-14,[99],0.0,0,0,0,,National Geographic
+1256412,Storm Cats,2017-02-20,[99],0.0,0,0,0,Robyn Keene-Young,National Geographic
+441891,Bugatti Chiron: Super Car Build,2017-02-11,[99],0.0,0,0,0,Dylan Weiss,National Geographic
+438962,Gender Revolution: A Journey with Katie Couric,2017-02-06,"[99, 10770]",5.9,19,0,0,Katie Couric,"National Geographic, World of Wonder"
+447829,Atlantis Rising,2017-01-29,"[99, 12, 9648]",6.0,37,0,0,Simcha Jacobovici,National Geographic
+430834,Water & Power: A California Heist,2017-01-23,[99],7.2,12,0,0,Marina Zenovich,"Jigsaw Productions, National Geographic"
+1434811,Hubble’s Amazing Journey,2017-01-15,[99],0.0,0,0,0,,National Geographic
+931567,Battle of the Swamp Dragons,2017-01-07,[99],0.0,0,0,0,,"2C Media, National Geographic, Dalaklis Media Enterprises, National Geographic Channels International"
+1413248,Narco Bling: Getting Chapo Guzman‎,2017-01-01,[99],0.0,0,0,0,,National Geographic
+698941,Shark Swarm,2017-01-01,"[99, 10770]",0.0,0,0,0,,"NHNZ Worldwide, National Geographic"
+570061,Dawn of the Nazis,2017-01-01,"[99, 36, 10770]",6.0,1,0,0,Isabelle Clarke,"RTBF, Télé-Québec, TV5 Monde, SVT, National Geographic, CC&C"
+728820,Man and space,2016-12-14,"[99, 36]",0.0,0,0,0,,National Geographic
+728636,Humanity Seen From Space,2016-12-14,"[99, 36]",0.0,0,0,0,,"National Geographic, BBC"
+1006000,Grizzly Empire,2016-12-12,[99],7.0,1,0,0,Jared Lipworth,National Geographic
+429324,Expedition Mars: Spirit & Opportunity,2016-11-16,[99],8.2,13,0,0,Mark Davis,National Geographic
+620547,Dragon Island,2016-10-26,[99],8.0,1,0,0,Graeme Duane,"National Geographic, Earth Touch (Pty) Ltd"
+410718,Before the Flood,2016-10-21,[99],7.7,781,0,0,Fisher Stevens,"RatPac Documentary Films, Appian Way, National Geographic, Diamond Docs"
+413349,Killing Reagan,2016-10-16,"[18, 10770]",6.6,29,0,0,Rod Lurie,"Scott Free Productions, National Geographic"
+415410,National Geographic: Expedition in the Grand Canyon,2016-09-11,[99],0.0,0,0,0,,National Geographic
+862883,9/11: The Plane that Hit the Pentagon,2016-09-10,"[99, 36]",5.0,2,0,0,,"National Geographic, PBS Digital Studios"
+453253,9/11: The Longest War,2016-09-10,"[10770, 10752, 99, 36]",0.0,0,0,0,"Stephen Finnigan, Erik Nelson",National Geographic
+412443,New Zealand: Earth's Mythical Islands,2016-07-19,[99],7.7,3,0,0,"Mark Flowers, Robert Morgenstern, Nick Easton","National Geographic, NDR Naturfilm, BBC"
+408668,Return From the Dead,2016-07-19,[99],6.8,2,0,0,Duncan Bulling,"Dragonfly Film and Television Productions, National Geographic"
+524504,Incredible Insects,2016-07-09,"[99, 10770]",6.3,3,0,0,Graeme Duane,"National Geographic, Earth Touch, Smithsonian Networks"
+448271,Map of Hell,2016-06-02,[99],6.0,2,0,0,Julian Jones,"National Geographic, Splice Post"
+407602,Incredible Spiders,2016-05-21,"[99, 10770]",6.0,1,0,0,Graeme Duane,"Earth Touch (Pty) Ltd, National Geographic"
+375192,Bill Nye's Global Meltdown,2016-02-16,[],8.0,1,0,0,,National Geographic
+866065,Amazing Animal Selfies,2016-01-18,"[10770, 99]",0.0,0,0,0,,National Geographic
+703842,Alcatraz: No Way Out,2016-01-01,[99],0.0,0,0,0,,National Geographic
+927881,Cougars Undercover,2015-11-22,"[10770, 99]",0.0,0,0,0,David Johnson,"National Geographic, BBC"
+497072,National Geographic: Inside the Mega Twister,2015-11-01,[99],6.0,1,0,0,Tria Thalman,National Geographic
+479650,Creatures of Light,2015-09-25,[99],7.5,2,0,0,Alan Ritsko,"NOVA, ARTE France Cinéma, National Geographic"
+449263,Dawn of Humanity,2015-09-10,"[99, 36, 10770]",7.5,2,0,0,Graham Townsley,"NOVA, National Geographic"
+659162,Undiscovered Haiti with José Andrés,2015-09-01,[99],0.0,0,0,0,Nathan Mook,National Geographic
+384385,Atlantic: The Wildest Ocean on Earth,2015-08-31,"[99, 10770]",7.3,4,0,0,"Ted Giffords, Andrew Murray, Dan Rees, Renée Godfrey","WDR, National Geographic, BBC"
+402120,Wild Islands: Jewels of a Paradise: Caribbean,2015-06-14,"[99, 10770]",9.0,1,0,0,,National Geographic
+677166,I Am Dying,2015-06-13,[99],0.0,0,0,0,"T.J. Martin, Daniel Lindsay","National Geographic, Scott Free Productions"
+536504,Top 10 Biggest Beasts Ever,2015-06-08,[99],6.7,6,0,0,"Paul Williams, Matthew Jackson, Bosie Vincent","Blink Films, National Geographic, Splice Post"
+348419,T.Rex: Ultimate Survivor,2015-06-07,[99],0.0,0,0,0,,National Geographic
+388934,Bigger Than T.Rex,2015-06-03,[99],0.0,0,0,0,,National Geographic
+374579,Battlefield Patagonia,2015-05-28,[99],0.0,0,0,0,,National Geographic
+663510,Eagles: Queen of the Skies,2015-05-10,[99],0.0,0,0,0,,National Geographic
+369457,Mankind From Space,2015-05-03,[99],7.0,2,0,0,,National Geographic
+428950,Drain the Titanic,2015-04-12,[99],7.1,24,0,0,Jobim Sampson,"Discovery Channel Canada, National Geographic"
